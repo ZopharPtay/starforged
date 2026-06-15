@@ -17,11 +17,12 @@ Courier.  Shadow-worker.  Former Cartel operative.  Now free, broke, and alone i
 
 ## The Story So Far
 
-- [[Journals/Journal 1 - First Steps|Journal 1: First Steps]] — Arriving at Paxton Station.  A favor asked.
-- [[Journals/Journal 3 - The Gentleman Loser|Journal 3: The Gentleman Loser]] — A drink Leight can't afford.
+- [[Journals/Journal 1 - First Steps|Journal 1: First Steps]] - Arriving at Paxton Station.  A favor asked.
+- [[Journal 2 - Placeholder|Journal 2: Memory Lane]] WIP; exploring the station before the meet
+- [[Journals/Journal 3 - The Gentleman Loser|Journal 3: The Gentleman Loser]] - A drink Leight can't afford.
 
 ## The World
 
-- [[Truths]] — The universe we're playing in.
-- [[Locations/The Marigny/Paxton Orbital Station|Paxton Station]] — Home base (for now).
-- [[Characters/Leight/Leight|Nassir "Leight" Okoro]]
+- [[Truths]] - The universe we're playing in.
+- [[Locations/The Marigny/Paxton Orbital Station|Paxton Station]] - Home base (for now).
+- [[Characters/Leight/Leight|Nassir "Leight" Okoro]] - Our protagonist.
