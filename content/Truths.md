@@ -58,7 +58,7 @@ Our faith is as diverse as our people.
 
 Most have no religion after the Cataclysm, or offer an occasional prayer out of habit. Some pay homage to the gods of our forebears as a way of connecting to their roots. Some idealize the natural order of the universe, and see the divine in the gravitational dance of stars or the complex mechanisms of a planetary ecosystem. And some now worship the Primordials— gods of a fallen people who once dwelt within the Forge.
 
-## Magic
+## Magic ([[Paragons]])
 ```iron-vault-truth
 truth:starforged/magic
 inserted

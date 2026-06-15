@@ -22,7 +22,7 @@ He can make things unnoticeable: a crate, a data chip, a modification.  Eyes sli
 
 ## Background
 
-Former Cartel operative who worked off his debts as a courier and smuggler.  A friend died to buy his freedom on his last job.  Now free, broke, alone in a beat-up freighter with one tank of gas.
+Former operative for [[The Cartel]] who worked off his debts as a courier and smuggler.  A friend died to buy his freedom on his last job.  Now free, broke, alone in a beat-up freighter with one tank of gas.
 
 **Callsign origin:** Tried to go by "Sleight" (as in sleight of hand).  Everyone misheard it as "Light."  He gave up correcting them but refuses to spell it the boring way.  It's Leight.
 
@@ -34,13 +34,13 @@ Former Cartel operative who worked off his debts as a courier and smuggler.  A f
 
 ## Assets
 
-- **Path: Courier** - Transport-quest specialist.  Sworn deliveries gain a safety track.
-- **Path: Shade** - Makes objects unnoticeable.  Preset action die to 5 (or 6 in darkness) on hide/sneak moves.
-- **Command Vehicle: Starship** - The Hulking Anguish multipurpose freighter.
-- **Module: Vehicle Bay** - Contains a non-functional hoverbike with sentimental value.
+- **[[Courier|Path: Courier]]** - Transport-quest specialist.  Sworn deliveries gain a safety track.
+- **[[Shade|Path: Shade]]** - Makes objects unnoticeable.  Preset action die to 5 (or 6 in darkness) on hide/sneak moves.
+- **[[Starship|Command Vehicle: Starship]]** - The Hulking Anguish multipurpose freighter.
+- **[[First/Locations/The Hulking Anguish/Vehicle Bay|Module: Vehicle Bay]]** - Contains a non-functional hoverbike with sentimental value.
 
 ## Background Vows
 
-- **Protect the Secret** (Extreme): The umbral magic locations.
-- **Pay a Debt** (Epic): The friend who died for his freedom.
-- **Repair a Technology** (Troublesome): The sentimental hoverbike.
+- **[[Protect the Secret]]** (Extreme): The umbral magic locations.
+- **[[Pay a Debt]]** (Epic): The friend who died for his freedom.
+- **[[Repair a Technology]]** (Troublesome): The sentimental hoverbike.

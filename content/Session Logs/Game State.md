@@ -49,6 +49,9 @@ Nassir has a few hours to kill before the meeting.  He's nearly broke; buying Fl
 - **The Cartel:** Nassir is free but still in their territory.  They let him go; that doesn't mean they've forgotten him.
 - **Zari Darwin ("Straggler"):** Flint's business partner/shop owner.  Controls the books and permits.  Flint can't authorize significant unbilled labor without Darwin's sign-off.  Has a hidden goal: solve a mystery.  Not yet met by Nassir.
 - **Vuldar Wolfe's death:** Specifics unestablished.  Flint knew Warden.  The nature of their relationship is TBD.
+- **Far Provenance / Ike Sutton:** New shop on Paxton.  Spiritual antiquarian, criminal fence ("Grudge").  Leight has noticed the shop but not interacted.  Potential patron for courier work.
+- **Paragon fade:** Leight's Shade power is sustained by proximity to the jungle world below Paxton.  He is unaware it will weaken if he leaves the system.  This is a ticking clock on his first out-of-system job.
+- **The Anguish's armament:** Unestablished.  Starship asset says "armed" but BoB history never specified weapons.
 
 ## Next Session Seeds
 

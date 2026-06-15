@@ -28,7 +28,7 @@ If robbed selectively, Ike would have difficulty identifying what was taken.  Un
 ## Connections
 
 - [[Ike Sutton]] (proprietor)
-- Located on [[Paxton Orbital Station]], The Marigny sector
+- Located on [[Paxton Orbital Station]], [[The Marigny]] sector
 
 ## Oracle Rolls
 
