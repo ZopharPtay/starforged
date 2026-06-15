@@ -9,6 +9,7 @@ configuration:
   locale: en-US
   baseUrl: ZopharPtay.github.io/starforged
   ignorePatterns:
+    - "Session Logs/Game State.md"
     - First.md
     - private
     - templates

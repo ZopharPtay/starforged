@@ -1,0 +1,1 @@
+Game mechanics, dice rolls, and out-of-character notes for sessions played.
