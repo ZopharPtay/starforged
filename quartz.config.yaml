@@ -9,7 +9,7 @@ configuration:
   locale: en-US
   baseUrl: ZopharPtay.github.io/starforged
   ignorePatterns:
-    - "Characters/Nassir (Leight) Okoro.md"
+    - "Characters/Nassir*Okoro.md"
     - "Session Logs/Game State.md"
     - First.md
     - private
