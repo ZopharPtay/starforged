@@ -34,6 +34,28 @@ Nassir arrived at Flint's shop on Paxton Station.  Read the room (Gather Informa
 - Gather Information +Wits: 1+2 vs 5|1 = Weak hit (+1 momentum)
 - Did Flint know Vuldar Wolfe? 50/50 (37): Yes
 
+## Rolls
+
+Migrated from Journal 1 - First Steps.
+
+Nassir steps through the shop door, unsure whether Flint will clock him right away.  Asked the Oracle (Unlikely) whether Flint notices him immediately; the answer was No, giving Nassir a beat to read the room before being seen.
+
+```iron-vault-mechanics
+- "**Oracle**:  Does Flint notice him immediately when he walks in?" {
+    oracle name="[Ask the Oracle \/ Unlikely](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.unlikely)" result="No" roll=38
+}
+```
+^roll-flint-notice
+
+With that beat, Nassir takes stock of the cluttered shop and Flint's state.  Gather Information +Wits came up a weak hit: he learns useful detail (the overwork, the evidence of a business partner) but the read is incomplete, and he banks +1 momentum.
+
+```iron-vault-mechanics
+move "[Gather Information](datasworn:move:starforged\/adventure\/gather_information)" {
+    roll "Wits" action=1 adds=0 stat=2 vs1=5 vs2=1
+}
+```
+^roll-gather-info
+
 ## Mechanical State at End
 
 - Health: 5 | Spirit: 5 | Supply: 5

@@ -33,21 +33,9 @@ He nearly missed his stop running through the different plays, but did get off a
 
 R5-14-23.  Flint's shop.  It looks exactly like Leight expected; like not a damned thing.  A giant open container with a man-high wall blocking off the lower portion for crimes of convenience and prying eyes.  The light over the door is green, the only indication there is a shop there or that it is open for business.  Flickering lights seen over the wall looks like Flint is "home" and welding something.   At least that means there won't be any witnesses if he gets humiliated.   He remembers the old adage that you should never arrive empty-handed and mentally boots himself for not thinking to grab a couple cans of something to share.  He could head back to the tube.... but he wasn't fooling himself, he's just procrastinating at that point.  Besides; he likely didn't have the parking allowance left to backtrack to a shop, get back here, and then have the discussion he had to have.
 
-He hits the access panel beside the door and it slides open; the graffiti-style lion a touch foreboding as he steps into the lion's den, hat (figuratively at least) in hand.
+He hits the access panel beside the door and it slides open; the graffiti-style lion a touch foreboding as he steps into the lion's den, hat (figuratively at least) in hand.[^notice]
 
-```iron-vault-mechanics
-- "**Oracle**:  Does Flint notice him immediately when he walks in?" {
-    oracle name="[Ask the Oracle \/ Unlikely](datasworn:move.oracle_rollable:starforged\/fate\/ask_the_oracle.unlikely)" result="No" roll=38
-}
-```
-
-Flint doesn't immediately look up from their work as Leight enters; either too caught up in his project to notice or just waiting for an opportune time to pause.  The welding arc keeps flashing behind the half-wall, throwing sharp shadows across the pod's interior.  Leight has a moment to breathe and take stock.
-
-```iron-vault-mechanics
-move "[Gather Information](datasworn:move:starforged\/adventure\/gather_information)" {
-    roll "Wits" action=1 adds=0 stat=2 vs1=5 vs2=1
-}
-```
+Flint doesn't immediately look up from their work as Leight enters; either too caught up in his project to notice or just waiting for an opportune time to pause.  The welding arc keeps flashing behind the half-wall, throwing sharp shadows across the pod's interior.  Leight has a moment to breathe and take stock.[^gather]
 
 Once inside the shop, it's absolutely packed.  Flint seems to have projects piled on top of projects and a whiteboard off to the side looks like they were trying to keep track of them all and gave up.  Each of the four repair bays has a vehicle in it; one is lifted up and has a vehicle _under_ it with a diagnostic rig happily flashing and beeping away trying to troubleshoot whatever is wrong with it.  Crates of parts line one wall.  If there is an organization to them, only Flint might know it.  Three pallets with boxes seem to have a blanket thrown on top forming a small nest.  Is Flint sleeping here?  
 
@@ -74,3 +62,7 @@ Flint glances toward the door and back.  Apprehension, maybe guilt?  "It's never
 "Look", Flint starts when Leight gets back, "let's grab a drink tonight.  I need to get this thruster bearing done before the end of the day, I'm already late; it was promised yesterday.  Let's talk later, man.  First drink is on you, though.  Meet me at the Gentleman Loser, some time around 18?"
 
 Leight hopes he suppressed the flinch at the perfectly normal "first round is on you" comment.  He definitely doesn't have money for a night out.  "Yeah.  Yeah, alright, but I can't stay long, yah.  One or two tops, but let's catch up.  And, uh... since I'm buying the first round, can you drop my registration in the system?  The less I pay for the dock fees, the more I can spend on your tab."  He jokes, hoping it sounds convincing, knowing it's not at all a joke.  Maybe there's something in the hold worth bartering for a couple drinks.  Dockmasters aren't keen on barter, but most shops on Paxton aren't so proud.
+
+
+[^notice]: Oracle roll: [[Session 2#^roll-flint-notice|does Flint notice him when he walks in?]] (Unlikely, 38 = No)
+[^gather]: [[Session 2#^roll-gather-info|Gather Information +Wits]] (weak hit: reads the room, +1 momentum)
