@@ -107,7 +107,7 @@ Orders of sworn healers preserve our medical knowledge and train new generations
 
 Life-saving advanced care is available within larger communities throughout the settled sectors of the Forge. Even remote communities are often served by a novice healer, or can request help from a healer's guild in an emergency.
 
-## [[Artificial Intelligence]]
+## Artificial Intelligence ([[Artificial Intelligence|AI]])
 %%
 ```iron-vault-truth
 truth:starforged/artificial_intelligence

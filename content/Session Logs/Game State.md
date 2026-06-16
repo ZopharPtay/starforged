@@ -48,7 +48,7 @@ Nassir has a few hours to kill before the meeting.  He's nearly broke; buying Fl
 - **Mira Trevane:** Out there somewhere as a grifter.  Could cross paths.
 - **The Cartel:** Nassir is free but still in their territory.  They let him go; that doesn't mean they've forgotten him.
 - **Zari Darwin ("Straggler"):** Flint's business partner/shop owner.  Controls the books and permits.  Flint can't authorize significant unbilled labor without Darwin's sign-off.  Has a hidden goal: solve a mystery.  Not yet met by Nassir.
-- **Vuldar Wolfe's death:** Specifics unestablished.  Flint knew Warden.  The nature of their relationship is TBD.
+- **Vuldar Wolfe's death:** Warden was Flint's younger brother (closely-held secret; Nassir doesn't know, few if any do).  Flint got tangled with the Cartel by offering to do "a job" to help Warden, misjudging how deep he was and how little he wanted out; Flint couldn't get clear and was later burned.  Warden by nature was an enforcer who guarded whoever he was assigned to (Amos/Timmy model from The Expanse); he died guarding Nassir on the last job because he was told to, not out of sentiment, and that bought Nassir's freedom.  The "never got along" read is outsiders misreading sibling friction.  Flint learned of the death at the shop (Session 2).  Still open: how Warden died, and how guarding Nassir translated into freeing him.
 - **Far Provenance / Ike Sutton:** New shop on Paxton.  Spiritual antiquarian, criminal fence ("Grudge").  Leight has noticed the shop but not interacted.  Potential patron for courier work.
 - **Paragon fade:** Leight's Shade power is sustained by proximity to the jungle world below Paxton.  He is unaware it will weaken if he leaves the system.  This is a ticking clock on his first out-of-system job.
 - **The Anguish's armament:** Unestablished.  Starship asset says "armed" but BoB history never specified weapons.
@@ -65,7 +65,10 @@ Nassir has a few hours to kill before the meeting.  He's nearly broke; buying Fl
 - **Nassir's finances:** Not literally penniless, but buying drinks means skipping dinner tomorrow or eating lean for days.  A fresh tomato or something from a private hydro plot is luxury currency on Paxton (Firefly-strawberry economy).  Station food is reconstituted or vat-grown; anything real is a treat/gift/bribe.
 - **The real conversation:** Nassir needs work and needs his e-drive looked at.  Flint is overworked.  The obstacle is Darwin's approval for unbilled labor.  How do they solve that?
 
-### Unresolved from This Session
-- Darwin's pronouns and physical description not yet established
-- The Gentleman Loser: location/vibe not yet defined
-- Flint's relationship with Warden: what was it?
+### Next Action
+- **Next session opens by describing and entering the Gentleman Loser.**  Establish the bar's location and vibe as the scene opens, then run the meeting with Flint.
+
+### Still Unresolved
+- The Gentleman Loser: location/vibe not yet defined (define as the scene opens).
+- Zari Darwin's pronouns and physical description (will matter once Darwin appears on screen).
+- Flint's relationship with Warden: resolved this session (they were siblings); see the Vuldar Wolfe's death thread under Open Threads.
