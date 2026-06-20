@@ -21,14 +21,12 @@ Housekeeping: created Paxton Orbital Station subfolder with folder note, created
 
 ## Rolls
 
+Leight lays it out: he needs work, can't pay up front, hopes they can make a deal.  The late arrival, the long pour, the calculated honesty; it's a play, even if the vulnerability that crept in was real.  Compel +Shadow; strong hit.  Flint agrees to barter terms.
+
 ```iron-vault-mechanics
-move: Compel
-roll: shadow (3)
-action_die: 5
-action_score: 8
-challenge_dice: [7, 2]
-result: strong hit
-outcome: Flint agrees to the barter arrangement.  +1 momentum.
+move "[Compel](datasworn:move:starforged\/relationship\/compel)" {
+    roll "Shadow" action=5 adds=0 stat=3 vs1=7 vs2=2
+}
 ```
 ^roll-compel-flint-barter
 
