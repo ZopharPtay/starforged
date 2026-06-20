@@ -13,7 +13,7 @@ The sector's main hub.  A sprawling orbital station above a jungle world.  Big e
 
 ## Station Addressing
 
-Locations use the format **R[ring]-[floor]-[pod]**.  Example: R5-14-23 = Ring 5, Floor 14, Pod 23.
+Locations use the format **R{ring}-{floor}-{pod}**.  Example: R5-14-23 = Ring 5, Floor 14, Pod 23.
 
 ## Dock Infrastructure
 

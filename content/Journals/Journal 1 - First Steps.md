@@ -5,7 +5,7 @@ session: "[[Session 2]]"
 ---
 ## Recap
 
-  [[Nassir (Leight) Okoro|Nassir "Leight" Okoro]] just bought [[First/Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] at auction on [[Paxton Orbital Station]].  The ship flies sublight but the e-drive is dead.  He's broke, free from [[The Cartel]] (technically), and stuck in their territory until that drive fires up.
+  [[Nassir (Leight) Okoro|Nassir "Leight" Okoro]] just bought [[First/Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] at auction on [[First/Locations/The Marigny/Paxton Orbital Station]].  The ship flies sublight but the e-drive is dead.  He's broke, free from [[The Cartel]] (technically), and stuck in their territory until that drive fires up.
 
   He's making a short hop to [[Flint]]'s shop to get the e-drive assessed.  Flint is an independent mechanic, former Cartel asset who got burned.  They have that in common, at least.
 

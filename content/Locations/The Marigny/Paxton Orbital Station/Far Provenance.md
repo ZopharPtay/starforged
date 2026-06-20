@@ -1,7 +1,7 @@
 # Far Provenance
 
 **Type:** Shop (spiritual antiquarian)
-**Location:** [[Paxton Orbital Station]]
+**Location:** [[First/Locations/The Marigny/Paxton Orbital Station]]
 **Proprietor:** [[Ike Sutton]]
 
 ## Summary
@@ -28,7 +28,7 @@ If robbed selectively, Ike would have difficulty identifying what was taken.  Un
 ## Connections
 
 - [[Ike Sutton]] (proprietor)
-- Located on [[Paxton Orbital Station]], [[The Marigny]] sector
+- Located on [[First/Locations/The Marigny/Paxton Orbital Station]], [[The Marigny]] sector
 
 ## Oracle Rolls
 
