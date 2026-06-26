@@ -32,8 +32,11 @@ Paxton uses a tiered docking system:
 
 ## Notable Locations
 
-- [[Flint]]'s shop: R5-14-23.  A single large pod on Ring 5.  Four repair bays inside for smaller vehicles; larger ships (like the Anguish) sit in the exterior cradle and are accessed via the mobile gantry.  Leased by [[Zari Darwin]]; operated by [[Flint]].
-- The Gentleman Loser: Bar.  Location TBD.
+- [[Flint]]'s shop: R5-14-23.  Four repair bays inside for smaller vehicles and off-site exterior cradles for larger vehicles like the Anguish.  Leased by [[Zari Darwin]]; operated by [[Flint]].
+
+- [[The Gentleman Loser]]: Dive bar.  Location TBD.  Low ceilings, bad lighting, privacy booths.  The kind of place where nobody looks up when the door opens.
+
+- [[Original Sin]]: Night club.  Location TBD.  Double-height pod, strobing neon, packed dance floor.  The station's release valve for the working poor.
 
 ## Connections
 

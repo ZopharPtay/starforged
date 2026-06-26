@@ -15,4 +15,4 @@ The Wardens' shadow arm.  An intelligence bureau that officially doesn't exist b
 
 ## Connection to The Hulking Anguish
 
-[[The Hulking Anguish]] was originally a Wardens fleet vessel (dispatch/VIP courier).  It was decommissioned and surplus-auctioned after a Wraith officer ([[Commander Lantern|Commander "Lantern"]]) was lost during a boarding action aboard the vessel.  The ship's pilot, [[Lt. Maren Kade (Threshold)|Lt. Maren Kade]], was also killed in the incident.
+[[First/Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] was originally a Wardens fleet vessel (dispatch/VIP courier).  It was decommissioned and surplus-auctioned after a Wraith officer ([[Commander Lantern|Commander "Lantern"]]) was lost during a boarding action aboard the vessel.  The ship's pilot, [[Lt. Maren Kade (Threshold)|Lt. Maren Kade]], was also killed in the incident.

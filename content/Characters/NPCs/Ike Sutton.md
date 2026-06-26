@@ -1,7 +1,7 @@
 # Ike Sutton
 
 **Role:** Antiquarian / criminal fence (spiritual artifacts)
-**Location:** [[Far Provenance]], [[First/Locations/The Marigny/Paxton Orbital Station]]
+**Location:** [[Far Provenance]], [[Paxton Orbital Station]]
 **Status:** Alive
 
 ## Summary

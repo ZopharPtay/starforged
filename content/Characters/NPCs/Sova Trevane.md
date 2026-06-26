@@ -1,6 +1,6 @@
 # Sova Trevane
 
-**Role:** Captain/Owner of [[The Hulking Anguish]] (civilian luxury era)
+**Role:** Captain/Owner of [[First/Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] (civilian luxury era)
 **Status:** Unknown (likely destitute or deceased)
 
 ## Summary

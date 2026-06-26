@@ -10,7 +10,7 @@ Leight has spent the afternoon wandering Paxton Station, killing time before his
 
 ### Location
 
-[[The Gentleman Loser]] bar on [[Paxton Orbital Station]] in  [[The Marigny]] sector.
+[[The Gentleman Loser]] bar on [[Paxton Orbital Station]] in [[The Marigny]] sector.
 
 ## Prompt
 
