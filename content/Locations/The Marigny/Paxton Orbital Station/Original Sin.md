@@ -1,7 +1,7 @@
 # Original Sin
 
 **Type:** Night Club
-**Location:** [[Paxton Orbital Station]]
+**Location:** [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]
 **Proprietor:** TBD
 
 ## Summary
@@ -22,4 +22,4 @@ Strobing ultraviolet and magenta.  Fog machines running constantly, turning the 
 
 ## Connections
 
-- Located on [[Paxton Orbital Station]], [[The Marigny]] sector
+- Located on [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]], [[Locations/The Marigny/The Marigny|The Marigny]] sector

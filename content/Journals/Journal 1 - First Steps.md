@@ -5,11 +5,11 @@ session: "[[Session 2]]"
 ---
 ## Recap
 
-  [[Nassir (Leight) Okoro|Nassir "Leight" Okoro]] just bought [[First/Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] at auction on [[Paxton Orbital Station]].  The ship flies sublight but the e-drive is dead.  He's broke, free from [[The Cartel]] (technically), and stuck in their territory until that drive fires up.
+  [[Characters/Leight/Leight|Nassir "Leight" Okoro]] just bought [[Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] at auction on [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]].  The ship flies sublight but the e-drive is dead.  He's broke, free from [[The Cartel]] (technically), and stuck in their territory until that drive fires up.
 
-  He's making a short hop to [[Flint]]'s shop to get the e-drive assessed.  Flint is an independent mechanic, former Cartel asset who got burned.  They have that in common, at least.
+  He's making a short hop to [[Characters/NPCs/Flint|Flint]]'s shop to get the e-drive assessed.  Flint is an independent mechanic, former Cartel asset who got burned.  They have that in common, at least.
 
-### Location: [[The Marigny]] (Outlands)
+### Location: [[Locations/The Marigny/The Marigny|The Marigny]] (Outlands)
 
   **Paxton Orbital Station** - orbits a jungle world.  Thousands.  The Cartel runs things.  Cheap diversions, ineffectual official authority.
 

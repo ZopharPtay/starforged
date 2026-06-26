@@ -6,11 +6,11 @@ session: "[[Session 6]]"
 
 ## Recap
 
-Leight has spent the afternoon wandering Paxton Station, killing time before his 18:00 meeting with [[Flint]] at the Gentleman Loser.  The Hulking Anguish is parked in Flint's service cradle.  He's broke, free, and about to buy a drink he can't afford for a mechanic he needs more than he'd like to admit.
+Leight has spent the afternoon wandering Paxton Station, killing time before his 18:00 meeting with [[Characters/NPCs/Flint|Flint]] at the Gentleman Loser.  The Hulking Anguish is parked in Flint's service cradle.  He's broke, free, and about to buy a drink he can't afford for a mechanic he needs more than he'd like to admit.
 
 ### Location
 
-[[The Gentleman Loser]] bar on [[Paxton Orbital Station]] in [[The Marigny]] sector.
+[[Locations/The Marigny/Paxton Orbital Station/The Gentleman Loser|The Gentleman Loser]] bar on [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]] in [[Locations/The Marigny/The Marigny|The Marigny]] sector.
 
 ## Prompt
 

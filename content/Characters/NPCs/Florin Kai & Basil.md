@@ -1,7 +1,7 @@
 # Florin Kai & Basil
 
 **Role:** Information broker (de facto); barfly (de jure)
-**Location:** [[The Gentleman Loser]], [[Paxton Orbital Station]]
+**Location:** [[Locations/The Marigny/Paxton Orbital Station/The Gentleman Loser|The Gentleman Loser]], [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]
 **Status:** Alive
 
 ## Florin Kai

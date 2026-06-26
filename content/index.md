@@ -24,5 +24,5 @@ Courier.  Shadow-worker.  Former Cartel operative.  Now free, broke, and alone i
 ## The World
 
 - [[Truths]] - The universe we're playing in.
-- [[Paxton Orbital Station]] - Home base (for now).
+- [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]] - Home base (for now).
 - [[Characters/Leight/Leight|Nassir "Leight" Okoro]] - Our protagonist.

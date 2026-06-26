@@ -32,9 +32,9 @@ Paxton uses a tiered docking system:
 
 ## Notable Locations
 
-- [[Flint]]'s shop: R5-14-23.  Four repair bays inside for smaller vehicles and off-site exterior cradles for larger vehicles like the Anguish.  Leased by [[Zari Darwin]]; operated by [[Flint]].
+- [[Characters/NPCs/Flint|Flint]]'s shop: R5-14-23.  Four repair bays inside for smaller vehicles and off-site exterior cradles for larger vehicles like the Anguish.  Leased by [[Zari Darwin]]; operated by Flint.
 
-- [[The Gentleman Loser]]: Dive bar.  Location TBD.  Low ceilings, bad lighting, privacy booths.  The kind of place where nobody looks up when the door opens.
+- [[Locations/The Marigny/Paxton Orbital Station/The Gentleman Loser|The Gentleman Loser]]: Dive bar.  Location TBD.  Low ceilings, bad lighting, privacy booths.  The kind of place where nobody looks up when the door opens.
 
 - [[Original Sin]]: Night club.  Location TBD.  Double-height pod, strobing neon, packed dance floor.  The station's release valve for the working poor.
 

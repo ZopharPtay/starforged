@@ -7,7 +7,7 @@
 
 ## Summary
 
-Died guarding Nassir on his last job for The Cartel, which bought Nassir's freedom.  Known to both Nassir and [[Flint]].  How he died and what the "last job" entailed are yet to be established in play.
+Died guarding Nassir on his last job for The Cartel, which bought Nassir's freedom.  Known to both Nassir and [[Characters/NPCs/Flint|Flint]].  How he died and what the "last job" entailed are yet to be established in play.
 
 By nature an enforcer in the Amos/Timmy mold (The Expanse): he oriented on a charge and protected it with total, literal loyalty, by directive rather than sentiment.  Came up hard and fell in with [[The Cartel]] early and willingly; it gave that nature a place to live.  His callsign, "Warden," fits exactly: a keeper, a guard.  He guarded Nassir because he was told to.  That was all there was to it.  Not friendship, not redemption.
 

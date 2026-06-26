@@ -2,7 +2,7 @@
 **Chassis:** SH-56 Patroclus (crew nickname: "Lurch")
 **Variant:** SH-56V (VIP/courier configuration)
 **Origin:** [[Stellar Wardens]] fleet dispatch/VIP courier
-**Current Owner:** [[First Character|Nassir "Leight" Okoro]]
+**Current Owner:** [[Characters/Leight/Leight|Nassir "Leight" Okoro]]
 **Integrity:** 5
 
 ## Overview

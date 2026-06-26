@@ -1,7 +1,7 @@
 # The Gentleman Loser
 
 **Type:** Dive Bar
-**Location:** [[Paxton Orbital Station]]
+**Location:** [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]
 **Proprietor:** TBD
 
 ## Summary
@@ -22,5 +22,5 @@ The lighting is deliberately bad.  Warm amber from the fiber-optic tangles overh
 
 ## Connections
 
-- Located on [[Paxton Orbital Station]], [[The Marigny]] sector
+- Located on [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]], [[Locations/The Marigny/The Marigny|The Marigny]] sector
 - [[Florin Kai & Basil]] (regulars; Florin holds a permanent booth)

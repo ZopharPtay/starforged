@@ -98,7 +98,7 @@ track name="[[First\/Progress\/Flint.md|Flint]]" status="added"
 oracle name="[Campaign Launch Oracles \/ Backstory Prompts](datasworn:oracle_rollable:starforged\/campaign_launch\/backstory_prompts)" result="Your ambitions outgrew your humble origins" roll=93
 ```
 
-Solo-style beginnings, but instead of going to Imperial Academy he took on - and worked off -debts to [[The Cartel]], more along the lines of Qi'ra's arc?  Now free of both the debts and the protections of [[The Cartel]], he is adrift in [[First/Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]], an old beat-up freighter that he owns outright with just enough money for one more tank of gas. 
+Solo-style beginnings, but instead of going to Imperial Academy he took on - and worked off -debts to [[The Cartel]], more along the lines of Qi'ra's arc?  Now free of both the debts and the protections of [[The Cartel]], he is adrift in [[Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]], an old beat-up freighter that he owns outright with just enough money for one more tank of gas. 
 
 
 ## Background Vows

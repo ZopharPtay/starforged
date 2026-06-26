@@ -6,7 +6,7 @@ title: Nassir "Leight" Okoro
 
 **Pronouns:** He/Him
 **Callsign:** Leight
-**Ship:** [[First/Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]]
+**Ship:** [[Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]]
 
 ## Look
 
@@ -37,7 +37,7 @@ Former operative for [[The Cartel]] who worked off his debts as a courier and sm
 - **[[Courier|Path: Courier]]** - Transport-quest specialist.  Sworn deliveries gain a safety track.
 - **[[Shade|Path: Shade]]** - Makes objects unnoticeable.  Preset action die to 5 (or 6 in darkness) on hide/sneak moves.
 - **[[Starship|Command Vehicle: Starship]]** - The Hulking Anguish multipurpose freighter.
-- **[[First/Locations/The Hulking Anguish/Vehicle Bay|Module: Vehicle Bay]]** - Contains a non-functional hoverbike with sentimental value.
+- **[[Locations/The Hulking Anguish/Vehicle Bay|Module: Vehicle Bay]]** - Contains a non-functional hoverbike with sentimental value.
 
 ## Background Vows
 

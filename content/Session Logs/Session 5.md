@@ -21,7 +21,7 @@ A housekeeping and worldbuilding session.  No fiction advanced (Leight still has
 - Restructured `Meta/TODO.md` into Active and Done sections; ticked off four resolved items (character-page exclusion, v5 branch question, truth-picker comments, roll-block migration).
 
 ### Worldbuilding: Flint and Warden
-- Established that [[Vuldar Wolfe]] ("Warden") was [[Flint]]'s younger brother.  Closely-held secret; Nassir does not know, and few if any do (ties to Flint hiding the Wolfe family name).
+- Established that [[Vuldar Wolfe]] ("Warden") was [[Characters/NPCs/Flint|Flint]]'s younger brother.  Closely-held secret; Nassir does not know, and few if any do (ties to Flint hiding the Wolfe family name).
 - Warden's nature: an enforcer in the Amos/Timmy mold (The Expanse).  He oriented on a charge and protected it absolutely, by directive rather than sentiment.  Fell in with the Cartel early and willingly; didn't want out and "didn't need saving."
 - Flint got entangled by offering to do "a job" to help Warden, misjudging how deep he was and how little he wanted leaving.  Flint never stopped angling to get them both out, which made them a tiresome flight-risk liability; the Cartel eventually burned them with a pinned trafficking charge to be rid of the nuisance.
 - Warden died guarding Nassir on the last job because he was told to, not out of affection, and that bought Nassir's freedom.  Makes the Pay-a-Debt vow heavier and stranger.

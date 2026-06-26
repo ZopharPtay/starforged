@@ -7,7 +7,7 @@
 
 Combat pilot turned VIP shuttle jockey.  Earned her callsign running hot extractions through narrow gate windows during the Clan wars.  Too much pride and ego for the "desk job" posting, but grew into it.  Suffered restricted lung capacity after a rapid depressurization event destroyed her previous ship.
 
-Died defending [[First/Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] during a boarding action.  The boarders breached the cockpit bulkhead and spaced her when they couldn't get through the internal airlock.
+Died defending [[Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] during a boarding action.  The boarders breached the cockpit bulkhead and spaced her when they couldn't get through the internal airlock.
 
 ## Legacy
 

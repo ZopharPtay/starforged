@@ -33,6 +33,6 @@ When you Withstand Damage, you may roll +heart.  If you do, Endure Stress (-1) o
 
 The Hulking Anguish.  SH-56 Patroclus chassis ("the Lurch").  Three owners before Leight, each leaving their mark.  Military bones, faded luxury ghosts, half-finished restoration.  E-drive currently non-functional.
 
-See [[Locations/The Hulking Anguish/The Hulking Anguish|Ship Details]] and [[First/Characters/The Hulking Anguish/The Hulking Anguish|full ship history]].
+See [[Locations/The Hulking Anguish/The Hulking Anguish|Ship Details]] and [[Characters/The Hulking Anguish/The Hulking Anguish|full ship history]].
 
 [[Leight|Back to Character Sheet]]
