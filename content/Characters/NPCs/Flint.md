@@ -15,7 +15,7 @@ Doesn't trust anyone.  Tolerates Nassir because "at least you never pretended to
 ## Family: Warden
 
 - [[Vuldar Wolfe]] ("Warden") was Flint's younger brother.  The relationship is a closely-held secret; Nassir doesn't know, and few if any do.
-- Warden fell in with [[The Cartel]] early and willingly.  By nature he was an enforcer who oriented on a charge and protected it absolutely, by directive rather than sentiment (the Amos/Timmy model from The Expanse).  He didn't want out and "didn't need saving."
+- Warden fell in with The Cartel early and willingly.  By nature he was an enforcer who oriented on a charge and protected it absolutely, by directive rather than sentiment (the Amos/Timmy model from The Expanse).  He didn't want out and "didn't need saving."
 - Flint offered to do "a job" meaning to help him, misjudged how deep he was and how little he wanted leaving, and got entangled themselves with no way clear.
 - What outsiders read as "they never got along" was sibling friction: an older sibling grinding against a reckless younger one who refused to be rescued.
 - The cruel asymmetry: Flint gave up a clean life trying to pull Warden out and never managed it.  Warden died doing the only thing he ever did, guarding a near-stranger ([[Characters/Leight/Leight|Nassir]]) because he was told to.  Flint will likely never know that's how it went.

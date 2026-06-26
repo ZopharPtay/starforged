@@ -1,4 +1,5 @@
 
+%%
 ```folder-overview
 id: characters-overview
 folderPath: ""
@@ -12,3 +13,4 @@ style: explorer
 sortBy: alphabetical
 showFolderNotes: true
 ```
+%%

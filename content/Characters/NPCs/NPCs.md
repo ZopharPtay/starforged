@@ -1,5 +1,6 @@
 # NPCs
 
+%%
 ```folder-overview
 id: npcs-overview
 folderPath: ""
@@ -13,3 +14,4 @@ style: explorer
 sortBy: alphabetical
 showFolderNotes: true
 ```
+%%

@@ -39,6 +39,7 @@ Three captains before the protagonist.  Each left their mark:
 
 - [[Locations/The Hulking Anguish/The Hulking Anguish|Physical Layout]] (Locations)
 
+%%
 ```folder-overview
 id: hulking-anguish-history
 folderPath: ""
@@ -52,3 +53,4 @@ style: explorer
 sortBy: alphabetical
 showFolderNotes: false
 ```
+%%
