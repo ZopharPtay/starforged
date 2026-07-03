@@ -18,7 +18,7 @@
   The ship's assigned officer-in-charge (not the VIP, the pilot/steward): Someone who cared about this vessel.  A mid-career fleet lieutenant who took genuine pride in keeping it spotless and running smooth.  Not ambitious enough for command track, not cynical enough to half-ass a "chauffeur" posting.
 
 ### Interpretation
-  [[Lt. Maren Kade (Threshold)|Lt. Maren Kade, callsign "Threshold."]]  A hotshot combat pilot with too much pride and ego, reassigned after a rapid depressurization event shredded her lung capacity.  She resented the posting at first because it wasn't the combat role she'd built her identity around, but grew into it.  Her evasion skills came in handy at least once before the end.
+  [[Lt. Maren (Threshold) Kade|Lt. Maren Kade, callsign "Threshold."]]  A hotshot combat pilot with too much pride and ego, reassigned after a rapid depressurization event shredded her lung capacity.  She resented the posting at first because it wasn't the combat role she'd built her identity around, but grew into it.  Her evasion skills came in handy at least once before the end.
 
 ---
 
@@ -57,7 +57,7 @@
 
 # Narrative
 
-The _Hulking Anguish_ rolled off the line as a [[Stellar Wardens]] fleet dispatch/VIP courier, a versatile mid-size hull used to shuttle high-ranking officers and classified cargo between capital ships and installations.  Its first captain was [[Lt. Maren Kade (Threshold)|Lt. Maren Kade, callsign "Threshold,"]] a hotshot combat pilot reassigned to the role after a rapid depressurization event shredded her lung capacity.  Threshold had too much pride and ego for the posting; she'd earned her name running white-knuckle extractions through narrow gate windows during the Clan wars, and resented being put out to pasture as a glorified chauffeur.  But she grew into it, took quiet pride in keeping the ship razor-sharp, and her combat evasion instincts proved their worth at least once.
+The _Hulking Anguish_ rolled off the line as a [[Stellar Wardens]] fleet dispatch/VIP courier, a versatile mid-size hull used to shuttle high-ranking officers and classified cargo between capital ships and installations.  Its first captain was [[Lt. Maren (Threshold) Kade|Lt. Maren Kade, callsign "Threshold,"]] a hotshot combat pilot reassigned to the role after a rapid depressurization event shredded her lung capacity.  Threshold had too much pride and ego for the posting; she'd earned her name running white-knuckle extractions through narrow gate windows during the Clan wars, and resented being put out to pasture as a glorified chauffeur.  But she grew into it, took quiet pride in keeping the ship razor-sharp, and her combat evasion instincts proved their worth at least once.
 
 Her one lasting modification: the flight deck runs at slightly elevated atmospheric pressure to compensate for her damaged lungs, sealed behind its own internal airlock.  This makes the cockpit a self-contained compartment, separate from the passenger and cargo spaces.  Nobody has since figured out exactly why the pressure differential exists, and nobody has bothered to undo it.
 

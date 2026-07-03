@@ -40,5 +40,5 @@ Paxton uses a tiered docking system:
 
 ## Connections
 
-- Other planets in-system exist but require e-drive to reach
+- Other planets in-system are days away on sublight engines
 - [[Aurora]] and [[Bulwark]] are elsewhere in the sector (deep space, e-drive required)

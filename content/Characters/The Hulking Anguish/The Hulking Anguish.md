@@ -13,7 +13,7 @@ A mid-size interstellar vessel built on the SH-56 Patroclus chassis (universally
 
 Three captains before the protagonist.  Each left their mark:
 
-1. **[[Captain 1 - The Military Era]]** - [[Lt. Maren Kade (Threshold)|Lt. Maren Kade "Threshold"]], [[Stellar Wardens]] fleet pilot.  The ship shuttled VIPs and classified cargo.  Ended when boarders killed Threshold and abducted [[Commander Lantern|Commander "Lantern"]] (Wraiths intelligence officer).  Ship decommissioned and auctioned cheap.
+1. **[[Captain 1 - The Military Era]]** - [[Lt. Maren (Threshold) Kade|Lt. Maren Kade "Threshold"]], [[Stellar Wardens]] fleet pilot.  The ship shuttled VIPs and classified cargo.  Ended when boarders killed Threshold and abducted [[Commander Lantern|Commander "Lantern"]] (Wraiths intelligence officer).  Ship decommissioned and auctioned cheap.
 2. **[[Captain 2 - The Civilian Luxury Era]]** - [[Sova Trevane]] (mother) and [[Mira Trevane]] (daughter), a charter team.  Rebranded as *Miravel's Reverie*.  Luxury fittings added.  Ended when a con-turned-real-romance collapsed and the suitor's family seized the ship.
 3. **[[Captain 3 - The Restorer]]** - [[Oren Herschel]], retired combat engineer.  Served on the SH-56C cargo variant his whole career (as did his father and grandfather).  Stripped the luxury, started restoring it to the freighter he remembered, never finished.  Passed away with no next of kin; his property was sold as a lot and the ship ended up at resale.
 

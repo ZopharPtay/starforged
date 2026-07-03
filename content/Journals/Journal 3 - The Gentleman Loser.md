@@ -22,6 +22,7 @@ Possible approaches:
 - Feel out what Flint's situation actually is before asking for anything
 
 ---
+
 ## Play
 
 Leight decides to try playing the "fashionably late" card, hoping to skip at least the first round of drinks he really shouldn't afford.  But he _does_ need Flint, so he can't afford to keep them waiting too long either.  He waltzes in around ten minutes late and looks around for his contact on his way to the bar.  Flint must be annoyed by the wait; he broke the unwritten rule and looked up and made eye contact when Leight walked in.  Not an auspicious start.

@@ -1,17 +1,17 @@
 # NPCs
 
-%%
-```folder-overview
-id: npcs-overview
-folderPath: ""
-title: "{{folderName}}"
-showTitle: false
-depth: 10
-includeTypes:
-  - markdown
-  - folder
-style: explorer
-sortBy: alphabetical
-showFolderNotes: true
-```
-%%
+%% Begin Waypoint %%
+- [[Commander Lantern]]
+- [[Flint]]
+- [[Florin Kai & Basil]]
+- [[Ike Sutton]]
+- [[Lt. Maren (Threshold) Kade]]
+- [[Mira Trevane]]
+- [[Oren Herschel]]
+- [[Sova Trevane]]
+- [[Stellan Voss-Dern]]
+- [[Tomiko (Albatross) Sakir]]
+- [[Vuldar Wolfe]]
+- [[Zari Darwin]]
+
+%% End Waypoint %%
