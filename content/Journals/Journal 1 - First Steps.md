@@ -11,7 +11,7 @@ He's making a short hop to [[Characters/NPCs/Flint|Flint]]'s shop to get the e-d
 
 ### Location: 
 
-**Paxton Orbital Station** in [[Locations/The Marigny/The Marigny|The Marigny]] sector.  Orbits a jungle world.  Thousands of residents.  The Cartel runs things.  Cheap diversions, ineffectual official authority.
+**Paxton Orbital Station** in [[Locations/The Marigny/The Marigny|The Marigny]] sector.  Orbits [[Locations/The Marigny/Orris/Orris|Orris]], a jungle world.  Thousands of residents.  The Cartel runs things.  Cheap diversions, ineffectual official authority.
 
 ## Prompt
 

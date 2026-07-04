@@ -1,7 +1,7 @@
 # Paxton Orbital Station
 
 **Type:** Orbital settlement
-**Orbits:** Unnamed jungle world
+**Orbits:** [[Locations/The Marigny/Orris/Orris|Orris]] (jungle world)
 **Region:** Outlands
 **Population:** Thousands
 **Authority:** Ineffectual (real authority: [[The Cartel]])
@@ -9,7 +9,7 @@
 
 ## Summary
 
-The sector's main hub.  A sprawling orbital station above a jungle world.  Big enough to have a port, markets, and diversions, but barely feeds itself.  Official authority exists on paper; the Cartel is the actual governing force.  Cheap entertainment keeps the population docile: bars, gambling, fighting pits, vice.
+The sector's main hub.  A sprawling orbital station above Orris, a jungle world.  Big enough to have a port, markets, and diversions, but barely feeds itself.  Official authority exists on paper; the Cartel is the actual governing force.  Cheap entertainment keeps the population docile: bars, gambling, fighting pits, vice.
 
 ## Station Addressing
 

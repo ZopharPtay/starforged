@@ -45,7 +45,7 @@ Not all of these necessarily exist in the Forge.  Concepts for play.
 
 ## Leight's Situation
 
-Leight's Shade gift is tied to the jungle world below Paxton Station.  He has lived and worked in this system his entire career with the Cartel, and has never been far enough away for long enough to notice the fade.  He is currently unaware that leaving this system will cost him his power.
+Leight's Shade gift is tied to [[Locations/The Marigny/Orris/Orris|Orris]], the jungle world below Paxton Station.  He has lived and worked in this system his entire career with the Cartel, and has never been far enough away for long enough to notice the fade.  He is currently unaware that leaving this system will cost him his power.
 
 He knows of no other Shade-compatible planets.  When he discovers the limitation (likely on his first out-of-system run), finding the next compatible world will become urgent.
 
@@ -54,7 +54,7 @@ He knows of no other Shade-compatible planets.  When he discovers the limitation
 - How quickly does the fade onset after leaving a compatible system?
 - Can the fade be slowed or temporarily arrested by any means?
 - How many Shade-compatible planets exist in the Forge?
-- Does anyone else know about the planet below Paxton?  Does the Cartel?
+- Does anyone else know about Orris's connection to Shade power?  Does the Cartel?
 
 ## Theories (in-world, unconfirmed)
 

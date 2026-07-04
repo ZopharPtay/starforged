@@ -9,7 +9,7 @@ Between leaving [[Characters/NPCs/Flint|Flint]] and meeting him for dinner Leigh
 
 ### Location: 
 
-[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]] in [[Locations/The Marigny/The Marigny|The Marigny]] sector.  Orbits a jungle world.  Thousands of residents.  The Cartel runs things.  Cheap diversions, ineffectual official authority.
+[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]] in [[Locations/The Marigny/The Marigny|The Marigny]] sector.  Orbits [[Locations/The Marigny/Orris/Orris|Orris]], a jungle world.  Thousands of residents.  The Cartel runs things.  Cheap diversions, ineffectual official authority.
   
 ## Prompt
 

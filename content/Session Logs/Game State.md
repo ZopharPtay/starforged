@@ -2,11 +2,9 @@
 
 ## Current Fiction State
 
-Nassir "Leight" Okoro and Flint have struck a deal at The Gentleman Loser.  Flint will repair the Hulking Anguish on barter: Leight works off the debt on Flint's schedule.  No timeline guarantees, no upfront payment.  The evening ended warm; they talked shop until the station shifted to night cycle.
+Nassir "Leight" Okoro is on Orris, the jungle world below Paxton Orbital Station.  He just stepped through the front doors of Celadon Terminus for the first time.  He's carrying Flint's delivery (late thruster assemblies) on a sled and needs to find a client he's never met, collect a disputed balance, then use those funds to pick up a part from a supplier.  Flint underfunded the pickup; the gap is Leight's problem to solve.
 
-The Hulking Anguish is still in Flint's service cradle.  Leight has gantry access but can't launch without being shunted to a public pad.  The ship is in rough shape; Flint hasn't formally inspected it yet but the deal is sealed.
-
-Next: Flint inspects the ship, triages repairs, and puts Leight to work as a gopher while doing the small fixes off-shift to avoid Darwin's attention.
+The Hulking Anguish is still in Flint's service cradle on Paxton.  Leight took the public shuttle down (the cheap transit; two-hour schedule).  He needs to complete both errands and catch a return shuttle tonight or he's stuck planetside.
 
 ## Sector: The Marigny (Outlands)
 
@@ -15,9 +13,13 @@ Next: Flint inspects the ship, triages repairs, and puts Leight to work as a gop
 
 ### Settlements
 
-- **Paxton Orbital Station** — Orbital (jungle world), thousands.  Ineffectual authority (Cartel is the real law).  Projects: Subsistence, Entertainment.
+- **Paxton Orbital Station** — Orbital (Orris), thousands.  Ineffectual authority (Cartel is the real law).  Projects: Subsistence, Entertainment.
 - **Aurora** — Deep space, hundreds.  Ineffectual authority.  Projects: Refuge/safe harbor, Manufacturing.
 - **Bulwark** — Deep space, hundreds.  Tolerant authority.  Projects: Manufacturing, Signals/Intel.
+
+### Planets
+
+- **Orris** — Jungle world below Paxton.  Breathable atmosphere.  Bountiful life.  Settlement: Celadon Terminus (landing station/transit hub) plus surrounding area (unestablished).
 
 ## Mechanical State
 
@@ -44,30 +46,46 @@ Next: Flint inspects the ship, triages repairs, and puts Leight to work as a gop
 - **Oren's build log:** Hidden somewhere aboard.  Undiscovered.
 - **Oren's heir:** A Herschel grandson, military engineer, quietly looking for the ship.
 - **Mira Trevane:** Out there somewhere as a grifter.  Could cross paths.
-- **The Cartel:** Nassir is free but still in their territory.  They let him go; that doesn't mean they've forgotten him.
+- **The Cartel:** Nassir is free but still in their territory.  They let him go; that doesn't mean they've forgotten him.  Cartel runners use dead-drop lockers at Celadon Terminus; someone could recognize Leight if he's unlucky.
 - **Zari Darwin ("Straggler"):** Flint's business partner/shop owner.  Controls the books and permits.  Flint can't authorize significant unbilled labor without Darwin's sign-off.  Has a hidden goal: solve a mystery.  Not yet met by Nassir.  Flint is actively delaying the confrontation by working off-shift and keeping Leight away from the shop.
 - **Vuldar Wolfe's death:** Warden was Flint's younger brother (closely-held secret; Nassir doesn't know).  Flint is keeping Leight around partly to learn what happened to Warden organically.  Still open: how Warden died, and how guarding Nassir translated into freeing him.
 - **Far Provenance / Ike Sutton:** Spiritual antiquarian shop on Paxton.  Criminal fence ("Grudge").  Leight has noticed the shop but not interacted.  Potential patron for courier work.
 - **Florin Kai & Basil:** Information broker pair installed at The Gentleman Loser.  Were in the same bar during the Flint meeting; may have noticed.  Not yet interacted with.
-- **Paragon fade:** Leight's Shade power is sustained by proximity to the jungle world below Paxton.  He is unaware it will weaken if he leaves the system.  Ticking clock on his first out-of-system job.
+- **Paragon fade:** Leight's Shade power is sustained by proximity to Orris.  He is unaware it will weaken if he leaves the system.  Ticking clock on his first out-of-system job.
 - **The Anguish's armament:** Unestablished.  Starship asset says "armed" but BoB history never specified weapons.
 
 ## Next Session
 
-### The Inspection Montage
-- Flint inspects the Anguish.  Show expertise without technobabble.  Depressing number of notes.  Triage.
-- Stakes detail: airlock gaskets are critical.  "You can't pay me if you get spaced."
-- Leight is grounded until gaskets are fixed.
+### Planetside Delivery
+- Leight just stepped outside Celadon Terminus for the first time.  What does Orris look like?
+- Find the delivery client.  Late thrusters, disputed balance.  Compel move likely.
+- Whatever he collects (or doesn't) determines his options at the supplier.
 
-### Gopher Work
-- Chore list keeps Leight away from the shop (away from Darwin's eyes).
-- One task: pull an airlock gasket from a junker in the scrap yard (Shade opportunity).
-- Other errands TBD.
+### The Supplier Pickup
+- Flint underfunded the errand.  If Leight comes up short from the delivery, he needs to get creative.
+- Shade opportunity, barter, or leverage.
+- What is the part?  TBD.
 
-### Flint's Hidden Game
-- Off-shift work on small fixes.  Buying time before Darwin notices.
-- Keeping Leight around for Warden intel and as a future ally against Darwin.
+### Establishing Orris
+- The area around Celadon Terminus is unestablished.  What kind of settlement exists here?
+- Jungle world flavor: humidity, vegetation, wildlife.
+- Transit infrastructure: Celadon Terminus is the bus station; the surrounding area is Leight's first real look at the planet.
 
-### Possible Mechanics
-- Gasket salvage: Face Danger or Secure an Advantage (shadow).  Shade ability in play.
-- Montage: possibly a short Troublesome expedition representing "a few days of gopher work."
+### Still Unresolved
+- Darwin's first appearance (Flint buying time)
+- Flint/Finch naming decision
+- Florin & Basil encounter
+- The data chip / PCMS / Oren's log hidden aboard the Anguish
+- Paragon fade ticking clock
+- Albatross job (shelved; seeds to plant in background)
+- The Anguish's armament
+
+## Worldbuilding Established This Session
+
+- **Orris:** Name of the jungle world below Paxton.
+- **Celadon Terminus:** The shuttle landing station on Orris.  Public transit hub.  Grand Atrium with display panels, locker banks (Cartel dead drops), cafshop.  Used to be upscale, worn down by working-class traffic over time.  Separate entrances for premium vessels were built; the old main entrance became the budget pads' door.
+- **Shuttle transit:** Public shuttle runs every ~2 hours.  ~1 hour transit time.  Packed, uncomfortable, stripped-bare interior.  The city bus equivalent.  Better options exist for those with money.
+- **Jin:** Forge-wide slang for a lucky charm/token.  From djinn, meaning worn smooth over centuries.
+- **Drift:** Salvage/flotsam.  General term for scrap found adrift or tossed "ashore."  "Drift shop" = a junk/salvage store.
+- **Leight's iron (jin):** A black iron inner wheel bearing, ~1.5" diameter.  Domed on one side (spins like a top).  Rollers partially exposed; two adjacent ones missing (lanyard hole).  Still spins but rough; shows damage.  He doesn't know it's black iron or precursor-forged.  Fidgets with it constantly (knuckle walks, roller thumbing, finger spins through axle bore).  Origin vague.  The physical sleight-of-hand habit that earned him the name "Leight."
+- **Leight's Cartel history on Orris:** He's been to Celadon Terminus many times for dead drops but never left the building.  Always met contacts at the locker bank or killed time at the cafshop.

@@ -10,7 +10,7 @@ A forgotten corner of the Outlands.  Cartel-controlled frontier space where offi
 
 ## Settlements
 
-- [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]: Orbital (jungle world), thousands, the main hub
+- [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]: Orbital ([[Locations/The Marigny/Orris/Orris|Orris]]), thousands, the main hub
 - **Aurora**: Deep space, hundreds, refuge/safe harbor (TBD)
 - **Bulwark**: Deep space, hundreds, manufacturing/signals (TBD)
 

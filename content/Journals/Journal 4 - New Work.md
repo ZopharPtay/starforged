@@ -10,7 +10,7 @@ The deal is done.  [[Characters/NPCs/Flint|Flint]] agreed to barter: ship repair
 
 ### Location
 
-[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]] in [[Locations/The Marigny/The Marigny|The Marigny]] sector.  Departing via commercial shuttle to the jungle world below.
+[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]] in [[Locations/The Marigny/The Marigny|The Marigny]] sector.  Departing via commercial shuttle to [[Locations/The Marigny/Orris/Orris|Orris]], the jungle world below.
 
 ## Prompt
 
