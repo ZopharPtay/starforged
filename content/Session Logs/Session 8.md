@@ -36,6 +36,10 @@ Oracle rolls for shuttle flavor:
 
 Planet name rolls from Jungle World sample list (two batches of 5).
 
+## Word Count
+
+654 fiction, 2,632 worldbuilding.  Total: 3,286.
+
 ## Mechanical State at End
 
 - Health: 5 | Spirit: 5 | Supply: 5
