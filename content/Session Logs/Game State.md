@@ -49,7 +49,7 @@ The Hulking Anguish is still in Flint's service cradle on Paxton.  Leight took t
 - **The Cartel:** Nassir is free but still in their territory.  They let him go; that doesn't mean they've forgotten him.  Cartel runners use dead-drop lockers at Celadon Terminus; someone could recognize Leight if he's unlucky.
 - **Zari Darwin ("Straggler"):** Flint's business partner/shop owner.  Controls the books and permits.  Flint can't authorize significant unbilled labor without Darwin's sign-off.  Has a hidden goal: solve a mystery.  Not yet met by Nassir.  Flint is actively delaying the confrontation by working off-shift and keeping Leight away from the shop.
 - **Vuldar Wolfe's death:** Warden was Flint's younger brother (closely-held secret; Nassir doesn't know).  Flint is keeping Leight around partly to learn what happened to Warden organically.  Still open: how Warden died, and how guarding Nassir translated into freeing him.
-- **Far Provenance / Ike Sutton:** Spiritual antiquarian shop on Paxton.  Criminal fence ("Grudge").  Leight has noticed the shop but not interacted.  Potential patron for courier work.
+- **Far Provenance / Ike Sutton:** Spiritual antiquarian shop on Paxton.  Criminal fence ("Grudge").  Likely fencing precursor artifacts smuggled from the Orris extraction.  Searching for something specific from the vault.  Leight carries a piece of precursor machinery without knowing it.  Potential patron for courier work; potential danger if Ike recognizes the jin.
 - **Florin Kai & Basil:** Information broker pair installed at The Gentleman Loser.  Were in the same bar during the Flint meeting; may have noticed.  Not yet interacted with.
 - **Paragon fade:** Leight's Shade power is sustained by proximity to Orris.  He is unaware it will weaken if he leaves the system.  Ticking clock on his first out-of-system job.
 - **The Anguish's armament:** Unestablished.  Starship asset says "armed" but BoB history never specified weapons.
@@ -82,10 +82,12 @@ The Hulking Anguish is still in Flint's service cradle on Paxton.  Leight took t
 
 ## Worldbuilding Established This Session
 
-- **Orris:** Name of the jungle world below Paxton.
-- **Celadon Terminus:** The shuttle landing station on Orris.  Public transit hub.  Grand Atrium with display panels, locker banks (Cartel dead drops), cafshop.  Used to be upscale, worn down by working-class traffic over time.  Separate entrances for premium vessels were built; the old main entrance became the budget pads' door.
-- **Shuttle transit:** Public shuttle runs every ~2 hours.  ~1 hour transit time.  Packed, uncomfortable, stripped-bare interior.  The city bus equivalent.  Better options exist for those with money.
-- **Jin:** Forge-wide slang for a lucky charm/token.  From djinn, meaning worn smooth over centuries.
-- **Drift:** Salvage/flotsam.  General term for scrap found adrift or tossed "ashore."  "Drift shop" = a junk/salvage store.
-- **Leight's iron (jin):** A black iron inner wheel bearing, ~1.5" diameter.  Domed on one side (spins like a top).  Rollers partially exposed; two adjacent ones missing (lanyard hole).  Still spins but rough; shows damage.  He doesn't know it's black iron or precursor-forged.  Fidgets with it constantly (knuckle walks, roller thumbing, finger spins through axle bore).  Origin vague.  The physical sleight-of-hand habit that earned him the name "Leight."
-- **Leight's Cartel history on Orris:** He's been to Celadon Terminus many times for dead drops but never left the building.  Always met contacts at the locker bank or killed time at the cafshop.
+- **Orris:** Name of the jungle world below Paxton.  Forgespawn-infested jungle concentrated around a precursor vault extraction operation.  From orbit: paradise.  From the ground: siege.
+- **Celadon Terminus:** Originally a luxury cruise-terminal welcome center for a planned resort.  Now the sole human foothold, repurposed as extraction compound.  Grand Atrium, locker bank (Cartel dead drops), cafshop.  Stacked sea-can worker housing.  Perimeter maintained by machete crews (day) and flamethrower shifts (night).
+- **The vault (deep lore):** A precursor vault exists on/under Orris.  Remnants guarded it; forgespawn won that war long ago and dispersed.  The Faction's resort construction breached the vault, ringing a dinner bell.  Forgespawn concentrated around the compound, drawn by the scent of Remnant material being disturbed.  Extraction perpetuates the siege (chumming the water).  Not public knowledge.
+- **Shuttle transit:** Public shuttle runs every ~2 hours.  ~1 hour transit time.  Packed, uncomfortable.  Personnel only; cargo goes up/down via mass driver and retro-rocket supply drops.
+- **Jin:** Forge-wide slang for a lucky charm/token.  From djinn, worn smooth over centuries.
+- **Drift:** Salvage/flotsam.  "Drift shop" = junk/salvage store.
+- **Leight's iron (jin):** A black iron inner wheel bearing, ~1.5" diameter.  Precursor machinery component.  He doesn't know what it is.  Fidgets with it constantly.  The habit that earned him the name "Leight."
+- **Far Provenance thread:** Ike Sutton is fencing precursor artifacts on Paxton.  Likely sourced from the Orris extraction.  Looking for something specific.  Leight carries precursor metal unknowingly.
+- **Leight's Cartel history on Orris:** Many dead-drop runs to Celadon Terminus; never left the building.

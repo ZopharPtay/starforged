@@ -1,56 +1,66 @@
 # Celadon Terminus
 
-**Type:** Shuttle landing station / extraction compound
+**Type:** Former luxury welcome center / current extraction compound
 **Planet:** [[Locations/The Marigny/Orris/Orris|Orris]]
-**Region:** Outlands (The Marigny sector)
+**Region:** Outlands ([[Locations/The Marigny/The Marigny|The Marigny]] sector)
 **Population:** Hundreds (extraction workers, defense crews, mechanical support, admin)
 
 ## Summary
 
-The sole human foothold on Orris.  Part transit hub, part mining camp, part fortress.  Not a settlement in any comfortable sense; a maintained perimeter on dead ground, surrounded by a jungle that never stops trying to take it back.  Everyone here works: extraction, defense, logistics, or support.
+Originally built as a cruise-terminal-style welcome center for an exclusive resort planet.  Now the sole human foothold on Orris, repurposed as an extraction compound.  The architecture is luxury; the use is industrial.  Machete crews track mud across the marble.
 
-## Layout
+## The Building
 
-- **Landing pads and terminal building (The Terminus proper):** What Leight knows.  Grand Atrium with display panels, locker bank (Cartel dead drops), cafshop.  The "nice" part, built for the occasional executive inspection visit.
-- **Worker housing:** Prefab blocks, utilitarian, stacked.  Functional.
-- **Mechanical bays:** Expedition vehicle maintenance and refit.  Flint's client works here.
-- **Boneyard/salvage yard:** Where returned expedition vehicles get stripped and parts recycled.  Where Leight's pickup likely lives.
-- **Mass driver rail:** Electromagnetic launch system for cargo pods to orbit.  Significant infrastructure; extends the perimeter that needs defending.
-- **Drop zone:** Cleared area (regularly refreshed by kinetic impacts) where orbital supply drops land.
-- **Processing/staging:** Whatever they're extracting gets prepped here before launch.
-- **Support services:** Mess hall, medical, a bar or two, small market.  Enough to keep workers functional, not comfortable.
-- **Perimeter:** Not a wall.  A constantly maintained edge where compound meets jungle.  Measured in effort, not concrete.
+The Terminus itself is the nicest structure in the compound because it was built first, during the resort phase, before the vault breach escalated forgespawn activity.  Think: private marina terminal in Hawaii, designed to welcome the wealthy off their chartered flights.
 
-## The Perimeter
+- **Grand Atrium:** Main dome.  Display panels (repurposed for pad assignments and shift schedules).  High ceilings designed for airy resort vibes, now echoing with work boot traffic.
+- **Locker bank:** Between pads and atrium.  Retrofit from the mining operation era; employee storage for workers coming on/off shift.  Not part of the original resort design.  Now also includes Cartel dead-drop lockers mixed in among the legitimate ones.
+- **Cafshop:** Just beyond the lockers.  [[Characters/Leight/Leight|Leight]]'s usual turnaround point on past Cartel runs.
+- **The front doors:** Glass and stone.  Designed to frame a view of the planned terrazzo plaza and manicured jungle canopy beyond.  Now they frame the perimeter.
 
-No walls.  The jungle is held back by labor: daytime machete crews, nighttime flamethrower shifts.  The transition from "compound" to "jungle" is a gradient, not a line.  Freshly cut, scorched, regrown-yesterday, and untouched canopy within meters of each other.
+## The Compound (beyond the Terminus)
 
-Nighttime is never dark.  The ring of fire from the flamethrower crews is visible from everywhere in the compound.  You go to sleep smelling smoke.
+Everything outside the original welcome center is improvised, industrial, and built from salvage:
 
-Kinetic supply drops are targeted at the perimeter's weakest points.  The crater pushes back growth; the jungle fills it in within days.
+- **Worker housing:** Stacked repurposed supply containers (sea cans).  Snow Crash Raft aesthetic.  Functional, not comfortable.
+- **Mechanical bays:** Expedition vehicle maintenance and refit.  [[Characters/NPCs/Flint|Flint]]'s client works here.
+- **Boneyard/salvage yard:** Returned expedition vehicles stripped and recycled.  Where Leight's pickup likely lives.  Parts still have jungle scoring from last week's sortie.
+- **Mass driver rail:** Extends the defended perimeter significantly.
+- **Drop zone:** Where supply containers land.  Retro-burn scorches the area; workers rush to unload before regrowth.  Containers get repurposed.
+- **Processing/staging:** Vault material prep before orbital launch.
+- **Support services:** Mess hall, medical, a bar or two, small market.
+- **The perimeter:** Not a wall.  A gradient maintained by labor.  Cut ground, scorched ground, yesterday's regrowth, untouched canopy; all within meters of each other.
+
+## The Plaza
+
+The paved area between the Terminus front doors and the compound proper.  Originally the planned town square / terrazzo for the resort.  The thermobaric site prep that cleared it also killed the soil beneath.  This is why the compound's core holds: the dead ground resists root systems.  Vines encroach from edges only.
+
+## Just Past the Perimeter
+
+The ruins of a partially-built day spa / resort structure.  Cracked tile floors.  Root-split pools filled with something that isn't water anymore.  The skeleton of floor-to-ceiling windows that were going to overlook manicured canopy.  Perimeter crews have seen it.  Landmark: "don't push past the spa."  Evidence of the timeline (it was safe to build here once) but nobody connects the dots publicly.
 
 ## Transit and Access
 
-- **Shuttle (personnel):** ~1 hour from Paxton.  Runs every ~2 hours.  Packed, uncomfortable.  For workers, not cargo.
+- **Shuttle (personnel):** ~1 hour from Paxton.  Runs every ~2 hours.  For bodies, not cargo.
 - **Mass driver (cargo up):** Thumps every few hours.  Unmanned.
-- **Kinetic drops (supplies down):** Guided orbital drops.  No parachutes.  Impact is a feature.
-- **Better shuttles exist** for those who can afford them.  The Director of Whatever flies in, inspects, complains about yield, and flies back up the same day.
+- **Supply drops (incoming):** Retro-rocket sea cans.  Braking burn clears the landing zone.  Workers unload fast.  Container gets repurposed.  Off-target drops are occasionally retrieved if close and critical; deeper misses are write-offs consumed by jungle.
+- **Executive visits:** Better shuttles exist.  The Director flies in, inspects, complains about yield, flies back up same day.  Never stays overnight.
 
 ## Cartel Presence
 
-The Cartel uses locker dead drops in the terminal routinely.  Leight made countless runs here when working off his debt.  The Cartel either controls the extraction operation or takes their cut.
-
-Complication (back pocket): a Cartel runner might recognize Leight hauling a tote through "their" terminal.
+[[The Cartel]] is logistics: Teamsters, not owners.  They keep the shuttle running, workers in line, supply chain flowing.  They take their cut of everything that moves.  Dead-drop lockers in the terminal serve their communication network.
 
 ## The Vibe
 
-- New faces get noticed.  Leight showing up with a delivery sled and no expedition badge will draw glances.
-- Everyone knows everyone's role.  Working-class solidarity and suspicion of outsiders.
-- Constant low-grade tension from the perimeter.  Not panic; just the knowledge that the work never stops or you lose ground.  Literally.
-- Veterans have a thousand-yard stare about different things than soldiers, but it's the same look.
+- New faces get noticed.  No expedition badge = glances.
+- Everyone knows everyone's role.  Working-class solidarity.  Suspicion of outsiders.
+- Constant background sounds: machetes during the day, the crackle of fire at night, the mass driver thump on schedule.
+- The perimeter crews have a look.  "Sometimes you're cutting vines and something you didn't see takes the person next to you."
+- At night, the ring of fire on the perimeter means it's never dark.  You sleep surrounded by firelight and the smell of smoke.
 
 ## Notes
 
 - Named from the Jungle World sample names list (Celadon = grey-green ceramic glaze).
 - "Terminus" = end of the transit line.  Also: the farthest point Leight has ever gone on this planet until today.
-- The compound sits in a shallow bowl of thermobaric-fused dead soil.  The jungle encroaches from the edges but can't grow up from below.  This is the secret of why this foothold holds at all.
+- The compound sits in a shallow bowl of dead soil from the original site prep.  This was always intended to be paved; the thermobaric was the first step in resort construction, not a weapon.
+- Prose note: "machete crews who tracked mud across the marble."

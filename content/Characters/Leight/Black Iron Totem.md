@@ -1,6 +1,6 @@
 # Black Iron Totem
 
-Leight's iron.  He calls it his jin.
+[[Characters/Leight/Leight|Leight]]'s iron.  He calls it his jin.
 
 ## Description
 
