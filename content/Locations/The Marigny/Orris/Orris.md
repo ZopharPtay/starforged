@@ -67,11 +67,21 @@ This also means perimeter defense is low-tech by necessity.  Sensors are useless
 
 **The connection to Leight:** His Shade gift makes *things* unnoticeable to people.  The cats make *themselves* unnoticeable to sensors AND use a chemical attack that makes people stop noticing everything.  Same energy, weaponized in the opposite direction.  [[Characters/Leight/Leight|Leight]] has never had reason to test whether his gift works on sensors specifically (he's always operated around people, not machines).  If it does, that's a significant upgrade he doesn't know about.
 
+## Expedition Vehicles
+
+The standard expedition transport is a [[Lore/Equipment/Expedition Hover Barge|low-altitude hover barge]]; essentially a swamp airboat reimagined for dense jungle.  Open-deck platform, small lift thrusters (1–2m clearance), large aft fan drive, and insulated brush cables to deflect shock vines.  Crew jumps on and off to clear obstacles.  When the thrusters go, the crew walks home.
+
+Maintained by [[Characters/NPCs/Rowena|Rowena]]'s bay.  [[Factions/Vanguard Recon Group|Vanguard]] is hard on them.  Dead ones go to [[Characters/NPCs/Marrow|Marrow]]'s salvage yard.
+
 ## The Cartel's Role
 
 [[The Cartel]] does NOT own Orris.  They are the Teamsters: logistics, transport, labor management, supply lines.  They keep the shuttle running, the workers in line, the operation flowing.  They take a massive cut.  Their power is being indispensable infrastructure, not holding the deed.  On top of the legitimate logistics, they run every traditional organized crime racket that makes money, legal or not.
 
-**The narcotic operation (not public knowledge):** The cats' hallucinogenic compound can be refined into a street narcotic.  The Cartel skims biological material off perimeter kills (or runs their own hunting operations) and ships it up the well mixed in with legitimate cargo.  This actively makes things worse: every extra kill creates another territorial vacuum, drawing replacements inward from deeper jungle.  The Cartel is gradually tightening the noose around the compound for profit.  The Faction notices the situation slowly deteriorating but can't explain why.  The Cartel can, and doesn't care.
+**The narcotic operation (not public knowledge):** The cats' hallucinogenic compound can be refined into a street narcotic.  The Cartel runs their own hunting crew past the wire on short forays to harvest biological material.  These are compound security guys, not jungle professionals; tough enough to survive, not professional enough to do it cleanly.  [[Factions/Vanguard Recon Group|Vanguard]] watches them gear up with amused contempt and doesn't interfere; it's not their contract, and it's entertaining watching the bouncers play soldier.
+
+The hunting parties are camouflaged as off-duty idiots blowing off steam.  Drunk, macho, loud.  "Those morons went out again."  Nobody takes it seriously because it looks like reckless bravado, not an organized operation.  No coordination, no logistics; just boys being boys.  Except the biological material always ends up in the right hands afterward, and the "idiots" always seem to come back with something in their packs.  If one of them doesn't come back, nobody investigates; that's what happens when you go past the wire hammered.  Natural consequences.
+
+The harvested material ships up the well mixed in with legitimate cargo.  The Cartel is gradually tightening the noose around the compound for profit without realizing it.  The Faction notices the situation slowly deteriorating but can't explain why.  Nobody on the ground connects the dots.
 
 ## Logistics
 

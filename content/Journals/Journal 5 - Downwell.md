@@ -6,7 +6,7 @@ session: "[[Session 8]]"
 
 ## Recap
 
-[[Leight]]'s first day on the job.  [[Flint]] sent him planetside with a tote of late thruster assemblies and enough credits to cover shuttle fare and a parts pickup.  The delivery client owes a balance, but Flint mentioned the thrusters are overdue.  The parts pickup costs more credits than Flint provided; Flint only fronted half.  The gap between what Leight collects and what he needs is supposed to be his problem.
+[[Characters/Leight/Leight|Leight]]'s first day on the job.  [[Flint]] sent him planetside with a tote of late thruster assemblies and enough credits to cover shuttle fare and a parts pickup.  The delivery client owes a balance, but Flint mentioned the thrusters are overdue.  The parts pickup costs more credits than Flint provided; Flint only fronted half.  The gap between what Leight collects and what he needs is supposed to be his problem.
 
 He left [[Characters/The Hulking Anguish/The Hulking Anguish|the Anguish]] docked in Flint's service cradle, grabbed the package, and headed for the commercial shuttle port.  [[Journal 4 - New Work]] ended with him rolling the sled toward the departure terminal with time to spare.
 

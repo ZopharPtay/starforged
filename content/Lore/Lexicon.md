@@ -26,3 +26,7 @@ In-universe slang, patois, and terminology established in play.
 
 **The watchtower's still standing**:  Morbid greeting among perimeter crews.  Meaning: nothing's changed, we're still here, the jungle hasn't swallowed it yet.  Refers to the unfinished vista tower visible above the canopy.  The day you can't see it anymore, things have gotten worse.
 
+**The 'racks**:  Worker housing at Celadon Terminus.  Stacked repurposed supply containers, three high.  From "barracks" but nobody says the full word.
+
+**The wire**:  The perimeter edge.  "Past the wire" = into forgespawn territory.  There is no actual wire; it's a gradient of cut ground, scorched ground, and regrowth.  The term is borrowed from military usage and stuck.
+

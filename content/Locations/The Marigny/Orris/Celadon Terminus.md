@@ -22,18 +22,30 @@ The Terminus itself is the nicest structure in the compound because it was built
 
 Everything outside the original welcome center is improvised, industrial, and built from salvage:
 
-- **Worker housing:** Stacked repurposed supply containers (sea cans).  Snow Crash Raft aesthetic.  Functional, not comfortable.
-- **Mechanical bays:** Expedition vehicle maintenance and refit.  [[Characters/NPCs/Flint|Flint]]'s client works here.
-- **Boneyard/salvage yard:** Returned expedition vehicles stripped and recycled.  Where Leight's pickup likely lives.  Parts still have jungle scoring from last week's sortie.
+- **Worker housing:** Stacked repurposed supply containers (sea cans).  Snow Crash Raft aesthetic.  Functional, not comfortable.  Workers call them "the 'racks."
+- **Mechanical bays:** Expedition vehicle maintenance and refit.  [[Characters/NPCs/Rowena|Rowena]]'s repair bay is the primary; her name is stenciled on the door.  Maintains vehicles for [[Factions/Vanguard Recon Group|Vanguard]] expedition crews and compound operations.
+- **Salvage yard:** South end of the compound.  Tarp roof over a log floor; wrecked expedition vehicles stripped for parts.  Run by [[Characters/NPCs/Marrow|Marrow]].  Where vehicles go after Rowena declares them dead.
+- **The Cascade by Fontaine:** Mess hall.  Sheet-metal barn with raised slatted flooring, plastic furniture, strip lighting.  Named ironically after the celebrity chef restaurant the resort planned but never built.  Spraypainted signage.
 - **Mass driver rail:** Extends the defended perimeter significantly.
 - **Drop zone:** Where supply containers land.  Retro-burn scorches the area; workers rush to unload before regrowth.  Containers get repurposed.
 - **Processing/staging:** Vault material prep before orbital launch.
-- **Support services:** Mess hall, medical, a bar or two, small market.
+- **Support services:** Medical, a bar or two, small market.
 - **The perimeter:** Not a wall.  A gradient maintained by labor.  Cut ground, scorched ground, yesterday's regrowth, untouched canopy; all within meters of each other.
 
 ## The Plaza
 
 The paved area between the Terminus front doors and the compound proper.  Originally the planned town square / terrazzo for the resort.  The thermobaric site prep that cleared it also killed the soil beneath.  This is why the compound's core holds: the dead ground resists root systems.  Vines encroach from edges only.
+
+### The Terracing
+
+The crater bowl was never meant to be left raw.  The resort plan called for terraced sides stepping up from the plaza to the villas and spa buildings at the rim; grass tiers held by retaining block walls, like a 70's sunken living room or an amphitheater.  The tiered waterfalls visible (and audible) from the center were a selling point.  "Wake to the sound of the Celadon Falls cascading through pristine jungle canopy."
+
+What got built:
+- **Lower tiers (near the Terminus):** Mostly finished retaining walls.  Cracked but intact.  Vine-choked on the upper sections where maintenance stopped.
+- **Mid-level:** Half-built terraces.  Exposed rebar.  Drainage channels that work by accident more than design.
+- **Upper rim:** Where the spa ruins are.  "Don't push past the spa."
+
+The bowl shape means all rain funnels toward the center.  The resort planned for this with decorative cascading water features down the terraces.  Some of that drainage infrastructure still functions; just ugly and unmaintained.  The falls are audible from anywhere in the compound; a constant bass note under the rain.
 
 ## Just Past the Perimeter
 
@@ -52,9 +64,9 @@ The ruins of a partially-built day spa / resort structure.  Cracked tile floors.
 
 ## The Vibe
 
-- New faces get noticed.  No expedition badge = glances.
-- Everyone knows everyone's role.  Working-class solidarity.  Suspicion of outsiders.
-- Constant background sounds: machetes during the day, the crackle of fire at night, the mass driver thump on schedule.
+- Everyone's too tired or too wet to care about strangers.  Nobody looks up.
+- Working-class solidarity among the long-timers.  Outsiders aren't interesting unless they cause problems.
+- Constant background sounds: machetes during the day, the crackle of fire at night, the mass driver thump on schedule, the falls underneath everything.
 - The perimeter crews have a look.  "Sometimes you're cutting vines and something you didn't see takes the person next to you."
 - At night, the ring of fire on the perimeter means it's never dark.  You sleep surrounded by firelight and the smell of smoke.
 

@@ -30,7 +30,7 @@ Possible approaches:
 
 ## Play
 
-It doesn't take long for Flint to find a use for him.  [[Leight]] wakes up the next morning to the slowly pulsing light on the bulkhead console indicating a new message in the comm buffer.  He pulls it up to see that Flint has sent him some instructions.   Caffeine first, reading comes after the eyes open.
+It doesn't take long for Flint to find a use for him.  [[Characters/Leight/Leight|Leight]] wakes up the next morning to the slowly pulsing light on the bulkhead console indicating a new message in the comm buffer.  He pulls it up to see that Flint has sent him some instructions.   Caffeine first, reading comes after the eyes open.
 
 He makes his way from the bunk aboard [[Characters/The Hulking Anguish/The Hulking Anguish|the Anguish]], through his morning routine, landing in the galley with a mug of steam clearing his sinuses.  It's a cheap herbal blend with a synthetic caff pill dissolved in it, but it does the trick most mornings and he's come to appreciate how the slight bite of the dried ginger hides the caff pill's taste.
 

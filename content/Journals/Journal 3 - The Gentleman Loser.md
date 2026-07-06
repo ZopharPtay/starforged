@@ -18,14 +18,14 @@ Leight has spent the afternoon wandering Paxton Station, killing time before his
 
 Possible approaches:
 - Play it casual and let Flint lead the conversation
-- Be direct about needing work; lean on their shared history
+- Be direct about needing work; lean on their shared history n
 - Feel out what Flint's situation actually is before asking for anything
 
 ---
 
 ## Play
 
-Leight decides to try playing the "fashionably late" card, hoping to skip at least the first round of drinks he really shouldn't afford.  But he _does_ need Flint, so he can't afford to keep them waiting too long either.  He waltzes in around ten minutes late and looks around for his contact on his way to the bar.  Flint must be annoyed by the wait; he broke the unwritten rule and looked up and made eye contact when Leight walked in.  Not an auspicious start.
+[[Characters/Leight/Leight|Leight]] decides to try playing the "fashionably late" card, hoping to skip at least the first round of drinks he really shouldn't afford.  But he _does_ need Flint, so he can't afford to keep them waiting too long either.  He waltzes in around ten minutes late and looks around for his contact on his way to the bar.  Flint must be annoyed by the wait; he broke the unwritten rule and looked up and made eye contact when Leight walked in.  Not an auspicious start.
 
 He points to the bar, despite clearly making his way there, hoping to mollify Flint by offering a drink before they can rip into him for the wait.   He spends a second trying to remember Flint's drink before thankfully remembering this is the Loser.  You can order the tap beer or the same tap beer in a different mug.   He orders a tall beer for Flint, and grudgingly orders himself a Well Water; an old joke order of water with a splash of color usually reserved for kids wanting to look cool or the desperate who want to fit in but can't afford to drink.   It's pretty clear where Leight falls on that spectrum.  Hopefully splurging on the long pour will smooth things over a little.
 

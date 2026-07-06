@@ -5,7 +5,7 @@ session: "[[Session 4]]"
 ---
 ## Recap
 
-Between leaving [[Characters/NPCs/Flint|Flint]] and meeting him for dinner Leight walks the rings, re-familiarizing himself with the area, noting the differences, perhaps some minor socializing.  
+Between leaving [[Characters/NPCs/Flint|Flint]] and meeting him for dinner [[Leight]] walks the rings, re-familiarizing himself with the area, noting the differences, perhaps some minor socializing.  
 
 ### Location: 
 
