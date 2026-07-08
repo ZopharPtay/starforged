@@ -6,6 +6,8 @@ In-universe slang, patois, and terminology established in play.
 
 **Jin**: A lucky charm or personal token.  From djinn (Arabic), worn smooth over centuries of use until the religious meaning faded and only "lucky thing you carry" remains.  See also: [[Characters/Leight/Black Iron Totem]].
 
+**Gilt**:  Rich people.  The gold-plated class.  Used dismissively by everyone who isn't.  "No way gilt would pay to come here."
+
 **Drift**:  Salvage.  Flotsam.  Stuff found adrift, tossed "ashore," or otherwise without clear provenance.  Like driftwood washing up.  Can refer to scrap, junk, found objects, or people operating at that social stratum.  "He's drift" = he's nobody, scrap-tier.
 
 **Drift shop**:  A junk store, salvage market, or second-hand parts dealer.  Sells whatever washed up.  Ranges from organized storefronts to a tarp on the deck with a pile of scrap.

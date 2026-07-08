@@ -24,7 +24,7 @@ Everything outside the original welcome center is improvised, industrial, and bu
 
 - **Worker housing:** Stacked repurposed supply containers (sea cans).  Snow Crash Raft aesthetic.  Functional, not comfortable.  Workers call them "the 'racks."
 - **Mechanical bays:** Expedition vehicle maintenance and refit.  [[Characters/NPCs/Rowena|Rowena]]'s repair bay is the primary; her name is stenciled on the door.  Maintains vehicles for [[Factions/Vanguard Recon Group|Vanguard]] expedition crews and compound operations.
-- **Salvage yard:** South end of the compound.  Tarp roof over a log floor; wrecked expedition vehicles stripped for parts.  Run by [[Characters/NPCs/Marrow|Marrow]].  Where vehicles go after Rowena declares them dead.
+- **Salvage yard:** South end of the compound, last thing before the wire.  Decommissioned shuttle wing on posts serves as the primary roof, with tarps radiating outward.  Log floor.  A cluster of equipment in active teardown; not a junkyard.  Run by [[Characters/NPCs/Marrow|Marrow]].  Where vehicles and heavy equipment go after Rowena declares them dead.
 - **The Cascade by Fontaine:** Mess hall.  Sheet-metal barn with raised slatted flooring, plastic furniture, strip lighting.  Named ironically after the celebrity chef restaurant the resort planned but never built.  Spraypainted signage.
 - **Mass driver rail:** Extends the defended perimeter significantly.
 - **Drop zone:** Where supply containers land.  Retro-burn scorches the area; workers rush to unload before regrowth.  Containers get repurposed.

@@ -2,9 +2,9 @@
 
 ## Current Fiction State
 
-Nassir "Leight" Okoro is on Orris, planetside at Celadon Terminus.  He has delivered Flint's late thruster assemblies to Rowena (repair bay supervisor), collected full balance after an embarrassing social encounter, stopped at the Cascade (mess hall) to compose himself, and is now heading to the salvage yard on the south end of the compound to meet the supplier and pick up a part for Flint.
+Nassir "Leight" Okoro is on the shuttle back from Orris to Paxton Orbital Station.  He completed both halves of Flint's errand: delivered the thruster assemblies to Rowena (got paid in full), then picked up a tote of parts from Marrow at the salvage yard (actuator servos, injector nozzles, and a hidden "special order" of new-in-box parts).  He's sitting on the tote lid, soaked and exhausted, heading home.
 
-The Hulking Anguish is still in Flint's service cradle on Paxton.  Leight has roughly an hour before the next shuttle back.
+The Hulking Anguish is still in Flint's service cradle on Paxton.  The errand is nearly complete; Leight just needs to deliver the tote to Flint.
 
 ## Sector: The Marigny (Outlands)
 
@@ -13,13 +13,13 @@ The Hulking Anguish is still in Flint's service cradle on Paxton.  Leight has ro
 
 ### Settlements
 
-- **Paxton Orbital Station** — Orbital (Orris), thousands.  Ineffectual authority (Cartel is the real law).  Projects: Subsistence, Entertainment.
-- **Aurora** — Deep space, hundreds.  Ineffectual authority.  Projects: Refuge/safe harbor, Manufacturing.
-- **Bulwark** — Deep space, hundreds.  Tolerant authority.  Projects: Manufacturing, Signals/Intel.
+- **Paxton Orbital Station** - Orbital (Orris), thousands.  Ineffectual authority (Cartel is the real law).  Projects: Subsistence, Entertainment.
+- **Aurora** - Deep space, hundreds.  Ineffectual authority.  Projects: Refuge/safe harbor, Manufacturing.
+- **Bulwark** - Deep space, hundreds.  Tolerant authority.  Projects: Manufacturing, Signals/Intel.
 
 ### Planets
 
-- **Orris** — Jungle world below Paxton.  Breathable atmosphere.  Bountiful life.  Settlement: Celadon Terminus (extraction compound/transit hub).
+- **Orris** - Jungle world below Paxton.  Breathable atmosphere.  Bountiful life.  Settlement: Celadon Terminus (extraction compound/transit hub).
 
 ## Mechanical State
 
@@ -31,13 +31,13 @@ The Hulking Anguish is still in Flint's service cradle on Paxton.  Leight has ro
 
 ## Active Vows
 
-- Protect the Secret (Extreme) — umbral magic locations
-- Pay a Debt (Epic) — [[Vuldar Wolfe]] ("Warden"), the friend who died for his freedom
-- Repair a Technology (Troublesome) — the sentimental hoverbike
+- Protect the Secret (Extreme) - umbral magic locations
+- Pay a Debt (Epic) - [[Vuldar Wolfe]] ("Warden"), the friend who died for his freedom
+- Repair a Technology (Troublesome) - the sentimental hoverbike
 
 ## Connections
 
-- Flint (Dangerous) — independent mechanic, former Cartel asset who was burned.  Barter deal struck; no progress ticked yet.
+- Flint (Dangerous) - independent mechanic, former Cartel asset who was burned.  Barter deal struck; no progress ticked yet.  Errand loop nearly complete (delivery done, pickup done, just needs hand-off).
 
 ## Open Threads
 
@@ -53,44 +53,33 @@ The Hulking Anguish is still in Flint's service cradle on Paxton.  Leight has ro
 - **Florin Kai & Basil:** Information broker pair installed at The Gentleman Loser.  Were in the same bar during the Flint meeting; may have noticed.  Not yet interacted with.
 - **Paragon fade:** Leight's Shade power is sustained by proximity to Orris.  He is unaware it will weaken if he leaves the system.  Ticking clock on his first out-of-system job.
 - **The Anguish's armament:** Unestablished.  Starship asset says "armed" but BoB history never specified weapons.
-- **Rowena:** Repair bay supervisor.  First impression made (memorably).  Potential recurring contact on future Orris runs.
-- **Marrow:** Salvage yard operator.  Former Vanguard.  Sells off-books parts and occasionally precursor material.  About to meet Leight.
+- **Rowena:** Repair bay supervisor at Celadon Terminus.  First impression made (memorably).  Potential recurring contact on future Orris runs.
+- **Marrow:** Salvage yard operator at Celadon Terminus.  Former Vanguard.  First transaction complete.  Potential recurring contact; arms supplier thread if trust develops.  Building the Mark Three (expedition barge redesign) and a ground motorcycle.  Does side repair work for compound workers.
 - **Vanguard Recon Group:** Mercenary expedition force (2 squads of 12).  Go past the wire.  Insular, professional, hard on equipment.  Marrow is former Vanguard.
+- **Scrap economy:** Compound workers repurpose salvage scrap into improvements (awnings, walkways, scaffolding) without company authorization.  Marrow facilitates.  Bulk unusable scrap goes upwell as mass driver ballast.
 
 ## Next Session
 
-### The Salvage Yard
-- Meet Marrow.  Buy the part.  Does Leight have enough credits?
-- Marrow is suspicious of strangers.  What does Leight do to earn the transaction?
-- The jin fidgeting: does Marrow notice the black iron?
-- The log floor and Leight's smooth-soled shoes.
-- What is the part Flint needs?
-
-### Time Pressure
-- Next shuttle back to Paxton in roughly an hour from current fiction.
-- If the Marrow interaction goes long or complicated, Leight misses it and is stuck overnight.
+### Returning to Paxton
+- Deliver the tote to Flint.  Does this complete the errand and earn progress on the connection track?
+- What's Flint's next task?  Or does Leight get downtime?
+- Does Flint react to anything in the tote (the special order)?
 
 ### Still Unresolved
 - Darwin's first appearance (Flint buying time)
-- Flint/Finch naming decision
 - Florin & Basil encounter
 - Data chip / PCMS / Oren's log
 - Paragon fade ticking clock
 - Albatross job (shelved)
 - The Anguish's armament
+- Leight's backstory (grew up on Paxton; not yet stated in prose)
 
 ## Worldbuilding Established This Session
 
-- **Weather:** Warm, constant rain.  Not dramatic; indifferent.  Oppressive humidity.  Based on real-world Manaus conditions.
-- **The terracing:** Crater sides are stepped; resort plan called for a sunken-living-room amphitheater with grass tiers and retaining walls up to the rim.  Partially built.
-- **Celadon Falls:** Tiered waterfalls audible from the compound; a selling point of the original resort.  Not visible from ground level in current conditions.
-- **The Cascade by Fontaine:** Mess hall.  Sheet-metal barn, slatted floor, plastic furniture.  Named ironically after the celebrity chef restaurant planned for the resort.
-- **Rowena:** Repair bay supervisor.  Rockabilly-cougar aesthetic.  Weaponized the harassment she received into a dominance tool.  Eccentric, elegant, deceitful, lonely.  Pays full price; the humiliation was Leight's "late fee."
-- **Marrow (Rokuro Ishida):** Salvage yard.  Former Vanguard, lost both legs carrying a dead crewmate (Corey) out of the jungle.  Company gave him cheap prosthetics and a dead-end posting.  Modified legs with cleated soles for his log floor.  Skims parts as slow revenge.
-- **Vanguard Recon Group:** Mercenary expedition force.  2 squads of 12.  Self-sufficient, use company vehicles, don't do compound security.  Professional disdain for everyone else.
-- **Expedition hover barge:** Swamp-airboat analog.  Open deck, lift thrusters (1-2m), aft fan drive, insulated brush cables.  "The Bulldog" is down in Rowena's bay (now has thrusters).
-- **Salvage yard:** Tarp roof, log floor (perimeter lumber, packed mud), warehouse of stripped parts.  Marrow's domain.
-- **Cartel hunting operation:** Camouflaged as off-duty drunken bravado.  "Those morons went out again."  Vanguard doesn't interfere.  Nobody connects the ecological damage.
-- **The 'racks:** Worker housing (stacked sea-cans).
-- **The wire:** The perimeter edge.  Military slang that stuck.
-- **Leight's social style confirmed:** Performs bravado as default, thinks he's suave, gets dismantled by anyone who's actually good at the game.
+- **Salvage yard layout:** Decommissioned shuttle wing on posts as primary roof, tarps radiating outward.  Log floor (split trunks, packed mud).  Small-scale active operation, not a junkyard.
+- **Marrow's Mark Three:** Expedition barge redesign project.  Built from scratch using best parts that pass through the yard.  He knows every failure case; he'll never fly it.
+- **Marrow's motorcycle:** Ground bike inspired by an old trideo.  Personal project, completely impractical.  Parallels Leight's hoverbike.
+- **Marrow's side work:** Barter-economy repairs (electronics, personal kit) for compound workers.  Rowena won't touch non-company equipment.
+- **Scrap economy:** Useful-geometry scrap stays planetside for worker-built compound improvements.  Bulk goes upwell as mass driver ballast.  Nobody authorized the improvements; nobody's stopping them.
+- **Gilt:** Rich people (Lexicon term).
+- **Leight's background:** Almost certainly grew up on Paxton (mutation tied to Orris system; Orris uninhabited; Paxton is the only settlement in orbit).  No Earth-fauna or planetside-childhood references appropriate for his POV.

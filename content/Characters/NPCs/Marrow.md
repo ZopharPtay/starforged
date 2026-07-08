@@ -36,11 +36,30 @@ The company gave him a commendation, two cheap legs, and the salvage yard to rot
 
 ## The Yard
 
-- Tarp roof stretched between tall poles; sagging where rainwater pools
-- Log floor: split trunks from perimeter clearing, gaps packed with mud.  Char marks and vine scarring still visible.  Sturdy enough for dead vehicles.
-- Vehicles and equipment in various stages of being stripped, in rough rows
+- Tarp roof stretched from a decommissioned shuttle wing mounted on posts; tarps radiate outward, expanding coverage as needed
+- Log floor: split trunks from perimeter clearing, gaps packed with mud.  Char marks and vine scarring still visible.  Sturdy enough for heavy equipment.
+- A cluster of equipment in various stages of teardown; one vehicle at a time, not rows of dead machines.  Generators, comms units, whatever comes in.
 - Warehouse at one end (welded containers) for sorted, shelved salvage
 - His domain.  He works at his own pace.  Nothing here is urgent until it is.
+- Not a junkyard; he strips efficiently and the hulls get repurposed (perimeter material, housing, night-shift fuel).  The yard is working space, not a graveyard.
+
+## The Mark Three
+
+Marrow is building an expedition barge from scratch.  His design.  The one the company should have built instead of the Mark Twos the Vanguard is still flying.  He knows every standard failure case because he nearly died on one.  The skirt actuators, the brush cable placement, the lift thruster clearance; he has opinions on all of it, loudly, to anyone who'll listen.
+
+He'll never fly it.  His legs aren't jungle-rated anymore and there's no crew and no mission.  Everyone knows this.  He knows this.  He's building it anyway.  It's his expertise given physical form; proof he was more than a body they used up and discarded.
+
+Some Vanguard crews sneak down to look at it and ask questions.  The company won't fund a redesign because the current barges are "good enough."
+
+## The Motorcycle
+
+A ground bike.  Two wheels, an engine, a frame.  He saw one on an old trideo and thought they looked cool.  Completely impractical on a planet with no roads.  He's building it from scratch out of salvage anyway.
+
+He doesn't justify this one to anyone.  It's just his.
+
+## The Side Work
+
+Rowena handles company vehicles and won't touch personal kit on company time.  Marrow will fix your hand terminal, your bunk heater, your comms unit, whatever.  Barter economy.  That's how he knows everyone on the compound without being social; they come to him.  He doesn't have to go anywhere.
 
 ## The Side Operation
 

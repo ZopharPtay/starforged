@@ -48,7 +48,7 @@ The legs go on for days.  Leight is human and soaking wet and having a bad after
 
 The creeper rolls out.  Big hair, bandana, grease on one cheekbone like she put it there on purpose.  She looks up at him from flat on her back and takes her time about standing, wiping her hands on a rag that's dirtier than they are.  Gives him a slow look, head to boots and back.
 
-"Well.  Aren't you just soaked right through."  She lets that sit for exactly long enough.  "Are you Flint's gift to make up for being so late?  I'm not sure you look old enough to be worth the Bulldog being down an extra week."
+"Well.  Aren't you just soaked right through."  She lets that sit for exactly long enough.  "Are you Flint's gift to make up for being so late?  I'm not sure you look old enough to be worth the [[Lore/Equipment/Expedition Hover Barge|Bulldog]] being down an extra week."
 
 Oh.  THIS is the game.  Leight can play this.  He's played this his whole life.  He puts on the grin.  The one that works.
 
@@ -117,6 +117,3 @@ The jin is already in his hand.  He doesn't remember pulling it out of his pocke
 That woman.  He replays it in his head and can't find the moment where he lost control of the conversation.  Probably because he never had it.  Probably because she was three moves ahead before the creeper even rolled out.
 
 He finishes the drink, pockets the jin, rakes his fingers through his hair in a vain attempt to make it look like anything other than plastered down, and heads back out into the rain.
-
----
-
