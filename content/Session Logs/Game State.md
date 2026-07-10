@@ -2,9 +2,11 @@
 
 ## Current Fiction State
 
-Nassir "Leight" Okoro is on the shuttle back from Orris to Paxton Orbital Station.  He completed both halves of Flint's errand: delivered the thruster assemblies to Rowena (got paid in full), then picked up a tote of parts from Marrow at the salvage yard (actuator servos, injector nozzles, and a hidden "special order" of new-in-box parts).  He's sitting on the tote lid, soaked and exhausted, heading home.
+Nassir "Leight" Okoro has completed Flint's first errand.  He delivered the thruster assemblies to Rowena on Orris, picked up a tote of parts from Marrow (including a hidden "special order" of new-in-box parts), hauled it back to Paxton without a sled (two hours on foot), and delivered it to Flint's shop.  Flint unpacked the greasy parts, peeked at the white boxes without comment, and locked them away.
 
-The Hulking Anguish is still in Flint's service cradle on Paxton.  The errand is nearly complete; Leight just needs to deliver the tote to Flint.
+Flint dropped a few credits "for the sore back" and told Leight to wash up before getting a drink together.  The scene ends at Flint's shop, evening, about to head out for drinks.
+
+Leight also discovered a small tip from Rowena (with a note: "Buy yourself a little something") deposited to an account named "Wet Kitten."  He used it to buy noodles from a roving cart near Flint's.
 
 ## Sector: The Marigny (Outlands)
 
@@ -37,7 +39,7 @@ The Hulking Anguish is still in Flint's service cradle on Paxton.  The errand is
 
 ## Connections
 
-- Flint (Dangerous) - independent mechanic, former Cartel asset who was burned.  Barter deal struck; no progress ticked yet.  Errand loop nearly complete (delivery done, pickup done, just needs hand-off).
+- Flint (Dangerous) - independent mechanic, former Cartel asset who was burned.  **Progress: 2/10 boxes.**  First errand completed (delivery + pickup loop).
 
 ## Open Threads
 
@@ -47,39 +49,41 @@ The Hulking Anguish is still in Flint's service cradle on Paxton.  The errand is
 - **Oren's heir:** A Herschel grandson, military engineer, quietly looking for the ship.
 - **Mira Trevane:** Out there somewhere as a grifter.  Could cross paths.
 - **The Cartel:** Nassir is free but still in their territory.  They let him go; that doesn't mean they've forgotten him.  Cartel runners use dead-drop lockers at Celadon Terminus; someone could recognize Leight if he's unlucky.
-- **Zari Darwin ("Straggler"):** Flint's business partner/shop owner.  Controls the books and permits.  Flint can't authorize significant unbilled labor without Darwin's sign-off.  Has a hidden goal: solve a mystery.  Not yet met by Nassir.  Flint is actively delaying the confrontation by working off-shift and keeping Leight away from the shop.
+- **Zari Darwin ("Straggler"):** Flint's business partner/shop owner.  Controls the books and permits.  Has a hidden goal: solve a mystery.  **Near-miss this session:** Leight saw Darwin enter and leave Flint's shop without knowing who he was.  Clocked him as someone experienced (no "rookie lookie").  Flint was in a bad mood after the visit.
 - **Vuldar Wolfe's death:** Warden was Flint's younger brother (closely-held secret; Nassir doesn't know).  Flint is keeping Leight around partly to learn what happened to Warden organically.  Still open: how Warden died, and how guarding Nassir translated into freeing him.
 - **Far Provenance / Ike Sutton:** Spiritual antiquarian shop on Paxton.  Criminal fence ("Grudge").  Likely fencing precursor artifacts smuggled from the Orris extraction.  Searching for something specific from the vault.  Leight carries a piece of precursor machinery without knowing it.  Marrow is a source node in this supply chain.
 - **Florin Kai & Basil:** Information broker pair installed at The Gentleman Loser.  Were in the same bar during the Flint meeting; may have noticed.  Not yet interacted with.
 - **Paragon fade:** Leight's Shade power is sustained by proximity to Orris.  He is unaware it will weaken if he leaves the system.  Ticking clock on his first out-of-system job.
-- **The Anguish's armament:** Unestablished.  Starship asset says "armed" but BoB history never specified weapons.
-- **Rowena:** Repair bay supervisor at Celadon Terminus.  First impression made (memorably).  Potential recurring contact on future Orris runs.
-- **Marrow:** Salvage yard operator at Celadon Terminus.  Former Vanguard.  First transaction complete.  Potential recurring contact; arms supplier thread if trust develops.  Building the Mark Three (expedition barge redesign) and a ground motorcycle.  Does side repair work for compound workers.
+- **The Anguish's armament:** Unestablished.  Starship asset says "armed" but BoB history never specified weapons.  Resolve in play.
+- **Rowena:** Repair bay supervisor at Celadon Terminus.  Tipped Leight after humiliating him ("Wet Kitten" account).  Potential recurring contact on future Orris runs.
+- **Marrow:** Salvage yard operator at Celadon Terminus.  Former Vanguard.  First transaction complete.  Potential recurring contact; arms supplier thread if trust develops.  Building the Mark Three (expedition barge redesign) and a ground motorcycle.
 - **Vanguard Recon Group:** Mercenary expedition force (2 squads of 12).  Go past the wire.  Insular, professional, hard on equipment.  Marrow is former Vanguard.
-- **Scrap economy:** Compound workers repurpose salvage scrap into improvements (awnings, walkways, scaffolding) without company authorization.  Marrow facilitates.  Bulk unusable scrap goes upwell as mass driver ballast.
+- **Scrap economy:** Compound workers repurpose salvage scrap into improvements without company authorization.  Marrow facilitates.  Bulk unusable scrap goes upwell as mass driver ballast.
+- **Flint's "special order":** Pristine white boxes from Marrow, "nervous around strangers."  Locked away without comment.  Purpose unknown.
+- **The shop sled:** Flint has a keyed sled locker at the arrival pad.  Leight now knows about it.
 
 ## Next Session
 
-### Returning to Paxton
-- Deliver the tote to Flint.  Does this complete the errand and earn progress on the connection track?
-- What's Flint's next task?  Or does Leight get downtime?
-- Does Flint react to anything in the tote (the special order)?
+### Immediate
+- Drinks with Flint.  Where?  The Gentleman Loser again, or somewhere else?
+- Does Flint reveal anything about the Darwin visit or his mood?
+- Downtime aboard the Anguish after drinks?  Potential Sojourn move.
 
 ### Still Unresolved
-- Darwin's first appearance (Flint buying time)
+- Darwin's first proper meeting with Leight (Flint is delaying this)
 - Florin & Basil encounter
 - Data chip / PCMS / Oren's log
 - Paragon fade ticking clock
-- Albatross job (shelved)
+- Albatross job (shelved NPC, not the tote)
 - The Anguish's armament
 - Leight's backstory (grew up on Paxton; not yet stated in prose)
 
 ## Worldbuilding Established This Session
 
-- **Salvage yard layout:** Decommissioned shuttle wing on posts as primary roof, tarps radiating outward.  Log floor (split trunks, packed mud).  Small-scale active operation, not a junkyard.
-- **Marrow's Mark Three:** Expedition barge redesign project.  Built from scratch using best parts that pass through the yard.  He knows every failure case; he'll never fly it.
-- **Marrow's motorcycle:** Ground bike inspired by an old trideo.  Personal project, completely impractical.  Parallels Leight's hoverbike.
-- **Marrow's side work:** Barter-economy repairs (electronics, personal kit) for compound workers.  Rowena won't touch non-company equipment.
-- **Scrap economy:** Useful-geometry scrap stays planetside for worker-built compound improvements.  Bulk goes upwell as mass driver ballast.  Nobody authorized the improvements; nobody's stopping them.
-- **Gilt:** Rich people (Lexicon term).
-- **Leight's background:** Almost certainly grew up on Paxton (mutation tied to Orris system; Orris uninhabited; Paxton is the only settlement in orbit).  No Earth-fauna or planetside-childhood references appropriate for his POV.
+- **R5-14 trades quarter:** Light-industrial neighborhood on Paxton.  Mechanics, fabricators, parts suppliers, an electronics shop, food vendors.  Not residential; workers commute from adjacent sections.  Corridor lights dim to an evening hue on a schedule.
+- **Roving nood shacks:** Semi-permanent food carts that claim a spot for the day with a rug and a few stools, move to a new location tomorrow.  Good food; they wouldn't survive otherwise.
+- **Arrival pad:** Commercial shuttle terminal on Paxton (separate from the public parking pads where ships dock).  Has a locker bank where shops can keep keyed sleds for freight.
+- **Financial system:** Terminals can hold multiple accounts.  Empty accounts auto-close.  Tapping terminals transfers funds and can include a note/message.  Flint set up a temporary job float for the errand; it zeroed out after Marrow's payment.
+- **Courier company livery:** At least one courier company operates matte brown sleds (UPS energy).
+- **"Shy products":** Leight's internalized slang for contraband, riffing on Marrow's description of the white boxes being "nervous around strangers."
+- **"Rookie lookie":** Courier slang for the dead giveaway of looking both ways when leaving a clandestine meet.

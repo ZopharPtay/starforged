@@ -52,6 +52,7 @@ His interest in running mechanic shops in the low rings, where ships come and go
 
 ## Notes
 
+%% First appearance (unrecognized): [[Journal 8 - Returning to Paxton]] %%
 - Not present when Nassir first visits the shop
 - The wine bottle on Flint's desk belongs to Darwin
 - Nassir has no prior relationship with him
