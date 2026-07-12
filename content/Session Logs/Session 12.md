@@ -8,7 +8,7 @@ type: worldbuilding
 
 ## Summary
 
-Off-the-books brainstorming session.  No prose, no gameplay.  Two major topics: the modular container system used across the Forge (and specifically at Celadon), and the general structure of Paxton Orbital Station.
+Brainstorming session.  No prose, no gameplay.  Two major topics: the modular container system used across the Forge (and specifically at Celadon), and the general structure of Paxton Orbital Station.
 
 ## Key Decisions
 

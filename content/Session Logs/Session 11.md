@@ -50,7 +50,7 @@ None.  No moves triggered except Develop Your Relationship (mark progress, no ro
 
 ### Immediate
 - Drinks with Flint.  Does Flint's post-Darwin mood reveal anything?
-- Downtime aboard the Anguish.  Sojourn opportunity.
+- Downtime aboard the Anguish.
 
 ### Medium-term
 - Darwin's first proper meeting with Leight (Flint still delaying)
