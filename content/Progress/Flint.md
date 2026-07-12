@@ -1,7 +1,7 @@
 ---
 name: Flint
 rank: dangerous
-progress: 0
+progress: 8
 tags:
   - incomplete
 track-type: Connection

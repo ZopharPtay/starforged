@@ -14,5 +14,6 @@ Game mechanics, dice rolls, and out-of-character notes for sessions played.
 - [[Session 9]]
 - [[Session 10]]
 - [[Session 11]]
+- [[Session 12]]
 
 %% End Waypoint %%

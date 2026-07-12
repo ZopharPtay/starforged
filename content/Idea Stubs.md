@@ -36,8 +36,14 @@ On a future Orris visit, Leight notices compound improvements that weren't there
 
 ### Clay Pigeons
 
-A fun anecdote someone tells Leight on a future visit: workers occasionally launch scrap parts from the mass driver as target practice / entertainment.  Not sanctioned.  Nobody stops it.  "Clay pigeons" equivalent using dead thruster housings or similar.
+A fun anecdote someone tells Leight on a future visit: workers occasionally use scrap metal as target practice / entertainment.  Not sanctioned.  Nobody stops it.  "Clay pigeons" equivalent using dead thruster housings or similar, diverted from the pile of junk waiting to be packed into the next spin launcher pod.  Useless scrap goes upwell in the empty space of cargo pods (free recycling; Paxton has smelting facilities, the compound doesn't), so there's always a pile of it waiting to go.
 
 ### Marrow as Arms Supplier (Long-term Thread)
 
 If trust develops over multiple visits, Marrow has access to Vanguard military hardware that gets written off to his yard.  He's not doing anything with it now beyond stripping it.  But if a situation arises where someone needs restricted hardware, he knows where it is and has plausible deniability.  Don't foreshadow yet; let the relationship earn it.
+
+### The Fake Starbucks
+
+One of the unkillable franchise cockroaches on R3 hasn't actually been a franchise in years.  Some guy just kept using the equipment and the sign after the corporate operator left.  Nobody from the chain has checked in because nobody at corporate cares about a frontier station in the Outlands.  The menu hasn't updated.  The branding is two redesigns out of date.  He's been selling chickory tea (or whatever) out of branded cups for a decade.
+
+Culture-shock moment for Leight: when he eventually reaches another settlement and tries the "same chain," the drink is completely different.  He's been drinking some dude's personal recipe his whole life thinking it was a brand.

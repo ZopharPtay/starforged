@@ -10,7 +10,7 @@
 
 From orbit: a tropical paradise.  Lush, green, breathable, beautiful.  All sensors confirm it.
 
-From the ground: a forgespawn-infested jungle concentrated around an active precursor vault extraction operation.  The sole human foothold is [[Locations/The Marigny/Orris/Celadon Terminus|Celadon Terminus]], maintained at enormous cost.
+From the ground: a forgespawn-infested jungle concentrated around an active precursor vault extraction operation.  The sole human foothold is [[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]], maintained at enormous cost.
 
 ## The True History (not public knowledge in full)
 
@@ -83,18 +83,9 @@ The hunting parties are camouflaged as off-duty idiots blowing off steam.  Drunk
 
 The harvested material ships up the well mixed in with legitimate cargo.  The Cartel is gradually tightening the noose around the compound for profit without realizing it.  The Faction notices the situation slowly deteriorating but can't explain why.  Nobody on the ground connects the dots.
 
-## Logistics
+## The Settlement
 
-- **Up (mass driver):** Electromagnetic launch rail.  Unmanned cargo pods to orbit.  Thumps every few hours.
-- **Down (retro-rocket drops):** Supply containers with retro-rockets that fire before landing, incinerating the immediate zone.  Workers rush to unload before regrowth.  Containers get repurposed as infrastructure (housing, storage, perimeter material).  Nothing wasted.
-- **Off-target drops:** They happen.  Occasionally retrieved depending on how far out they landed and what was on them; a close miss with critical supplies might warrant a recovery sortie.  But anything deep in the jungle is a write-off.  The deep canopy is littered with lost containers slowly being consumed.  Salvage hook for the brave or desperate.
-- **Personnel shuttle:** Paxton ↔ Celadon.  ~1 hour transit, every ~2 hours.  For bodies only.
-
-## Defense Rhythm
-
-- **Daytime:** Machete crews on the perimeter.  Maintenance cutting.  Mass driver launches.  Expedition prep.
-- **Nighttime:** Flamethrower shifts.  The vine surge accelerates after dark.  The perimeter glows with a ring of fire.  Night is never truly dark.  You go to sleep smelling smoke.
-- **Supply drops:** Targeted where growth is worst.  Retro-burn clears the zone; the clock starts immediately.
+See [[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]] for settlement details (layout, infrastructure, defense rhythm, logistics, daily life).
 
 ## The Abandoned Resort
 

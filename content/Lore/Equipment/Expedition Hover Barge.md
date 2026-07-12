@@ -6,7 +6,7 @@
 
 ## Description
 
-A swamp airboat reimagined for dense jungle.  The standard expedition transport at [[Locations/The Marigny/Orris/Celadon Terminus|Celadon Terminus]].
+A swamp airboat reimagined for dense jungle.  The standard expedition transport at [[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]].
 
 - **Platform:** Shallow, open-deck barge.  Crew can jump on and off easily; no doors, no hull to climb over.  Speed of deployment matters when something's coming.
 - **Lift:** Small directional thrusters keep it aloft at roughly 1–2 meters.  Enough to clear root tangles, fallen logs, and low brush.  Not enough for serious deadfalls or thick vine mass.

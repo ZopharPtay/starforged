@@ -6,13 +6,13 @@ session: "[[Session 9]]"
 
 ## Recap
 
-[[Characters/Leight/Leight|Leight]] just walked through the front doors of [[Celadon Terminus]] for the first time.  Every previous trip to [[Orris]] ended at the locker bank; Cartel dead drops and a caf while he waited for the shuttle back.  Now he's stepping outside with [[Flint]]'s late thruster assemblies on a sled, looking for a client he's never met to collect a disputed balance.  Whatever he scrapes together determines whether he can cover the parts pickup Flint underfunded.
+[[Characters/Leight/Leight|Leight]] just walked through the front doors of [[Locations/The Marigny/Orris/Celadon/Celadon Terminus|Celadon Terminus]] for the first time.  Every previous trip to [[Orris]] ended at the locker bank; Cartel dead drops and a caf while he waited for the shuttle back.  Now he's stepping outside with [[Flint]]'s late thruster assemblies on a sled, looking for a client he's never met to collect a disputed balance.  Whatever he scrapes together determines whether he can cover the parts pickup Flint underfunded.
 
 The next shuttle back to [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton]] runs in about two hours.  Miss it and he's stuck planetside overnight.
 
 ### Location
 
-[[Orris]], surface.  Just outside [[Celadon Terminus]], the sole human foothold on the jungle world below [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]].  [[Locations/The Marigny/The Marigny|The Marigny]] sector, Outlands.
+[[Orris]], surface.  Just outside [[Locations/The Marigny/Orris/Celadon/Celadon Terminus|Celadon Terminus]], the sole human foothold on the jungle world below [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]].  [[Locations/The Marigny/The Marigny|The Marigny]] sector, Outlands.
 
 ## Prompt
 

@@ -4,5 +4,6 @@ Vehicles, tools, and technology reference for the campaign.  Individual pages fo
 
 %% Begin Waypoint %%
 - [[Expedition Hover Barge]]
+- [[Forge Modular Container System]]
 
 %% End Waypoint %%

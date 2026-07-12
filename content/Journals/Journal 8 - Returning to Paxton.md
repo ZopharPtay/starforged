@@ -12,7 +12,7 @@ All that's left is handing the tote off to Flint.
 
 ### Location
 
-Shuttle, en route from [[Locations/The Marigny/Orris/Celadon Terminus|Celadon Terminus]] to [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]].  [[Locations/The Marigny/The Marigny|The Marigny]] sector (Outlands).
+Shuttle, en route from [[Locations/The Marigny/Orris/Celadon/Celadon Terminus|Celadon Terminus]] to [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]].  [[Locations/The Marigny/The Marigny|The Marigny]] sector (Outlands).
 
 ## Prompt
 

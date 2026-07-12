@@ -3,7 +3,12 @@
 	- [[Vehicle Bay]]
 - **[[The Marigny]]**
 	- **[[Orris]]**
-		- [[Celadon Terminus]]
+		- **[[Celadon]]**
+			- [[Celadon Terminus]]
+			- [[Rowenas Bay]]
+			- [[The Cascade]]
+			- [[The Plaza]]
+			- [[The Racks]]
 	- **[[Paxton Orbital Station]]**
 		- [[Far Provenance]]
 		- [[Original Sin]]

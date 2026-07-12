@@ -6,13 +6,13 @@ session: "[[Session 10]]"
 
 ## Recap
 
-[[Characters/Leight/Leight|Leight]] delivered Flint's late thruster assemblies to [[Characters/NPCs/Rowena|Rowena]], got paid in full (and in humiliation), composed himself at [[Celadon Terminus|the Cascade]], and is now walking through the rain toward the salvage yard on the south end of the compound.  He has about an hour before the next shuttle back to [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton]].
+[[Characters/Leight/Leight|Leight]] delivered Flint's late thruster assemblies to [[Characters/NPCs/Rowena|Rowena]], got paid in full (and in humiliation), composed himself at [[Locations/The Marigny/Orris/Celadon/The Cascade|the Cascade]], and is now walking through the rain toward the salvage yard on the south end of the compound.  He has about an hour before the next shuttle back to [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton]].
 
 He has credits from Rowena's payment plus what [[Characters/NPCs/Flint|Flint]] fronted him; enough to cover the pickup now that she paid in full.
 
 ### Location
 
-[[Locations/The Marigny/Orris/Orris|Orris]], surface.  [[Locations/The Marigny/Orris/Celadon Terminus|Celadon Terminus]] compound, heading to [[Characters/NPCs/Marrow|Marrow]]'s salvage yard.
+[[Locations/The Marigny/Orris/Orris|Orris]], surface.  [[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]] compound, heading to [[Characters/NPCs/Marrow|Marrow]]'s salvage yard.
 
 ## Prompt
 
@@ -30,7 +30,7 @@ Marrow runs the salvage yard down here.   Whatever Rowena decides can't be fixed
 
 When they said you can't miss the salvage yard, they meant it.  It's literally the last thing this side of the vines.  The yard itself is a large open space using the old post-mounted shuttle wing as the primary roof with tarps pulled tight in all directions from there, expanding coverage as time demanded.  The water pools on a couple of them but, in general, they are taut and angled well enough to serve their purpose.  There's a slight incline about a half-step up onto the split log flooring, the logs themselves scarred by dragging vehicles and heavy equipment across it and charred in places from the cutting torches over the years.  Some of the logs have clearly been replaced more recently than others.
 
-Mud has been packed between the logs to keep it roughly level, but it does nothing at all for traction in his station boots.   He almost wipes on the damp logs a few times as he makes his way past a cluster of partially dismantled equipment toward the sound of work.  He can't wait to get off this miserable wet rock.  Some drifthead once tried to convince him that [[Locations/The Marigny/Orris/Celadon Terminus|Celadon]] was originally meant to be some fancy retreat for the gilt.  They burn cred to see the pretty colors it makes, but even _they_ wouldn't pay to visit this place.  Heck, Leight is just about ready to pay to _leave_.
+Mud has been packed between the logs to keep it roughly level, but it does nothing at all for traction in his station boots.   He almost wipes on the damp logs a few times as he makes his way past a cluster of partially dismantled equipment toward the sound of work.  He can't wait to get off this miserable wet rock.  Some drifthead once tried to convince him that [[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]] was originally meant to be some fancy retreat for the gilt.  They burn cred to see the pretty colors it makes, but even _they_ wouldn't pay to visit this place.  Heck, Leight is just about ready to pay to _leave_.
 
 The back of the yard where he can hear Marrow working is the driest, at least.  He comes around the bulk of an [[Lore/Equipment/Expedition Hover Barge|expedition skiff]] lying on its side and spots his man hunched over a makeshift workbench inspecting something.
 

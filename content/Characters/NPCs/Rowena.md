@@ -1,6 +1,6 @@
 # Rowena
 
-**Role:** Repair bay supervisor, [[Celadon Terminus]]
+**Role:** Repair bay supervisor, [[Locations/The Marigny/Orris/Celadon/Rowenas Bay|Rowena's Bay]], [[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]]
 **Pronouns:** She/her
 **Faction:** Extraction operation (employee)
 **Status:** Alive

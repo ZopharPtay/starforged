@@ -12,7 +12,7 @@ He left [[Characters/The Hulking Anguish/The Hulking Anguish|the Anguish]] docke
 
 ### Location
 
-En route from [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]] to [[Orris]], the jungle world below.  Leight has made this trip before on Cartel business but never left [[Celadon Terminus]].
+En route from [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]] to [[Orris]], the jungle world below.  Leight has made this trip before on Cartel business but never left [[Locations/The Marigny/Orris/Celadon/Celadon Terminus|Celadon Terminus]].
 
 ## Prompt
 
@@ -33,7 +33,7 @@ The jungle world is a blank canvas.  What does Leight see when the shuttle doors
 
 ## Play
 
-The public shuttle to [[Celadon Terminus|Celadon]] is nothing new to Leight.  He made the transit more times than he can count when he was running goods for [[The Cartel]].  Each time he wonders if it would be more comfortable stowing away in the cargo hold of the business shuttles.  He whiles away the hour or so before boarding people-watching and fidgeting with his jin, making it disappear and reappear in his hands - in the traditional manner.  When they announce boarding, he sets the piece spinning on its domed side with a snap of his fingers while checking his pockets to make sure he has everything one last time, then stuffs it in his chest pocket; a reassuring weight.
+The public shuttle to [[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]] is nothing new to Leight.  He made the transit more times than he can count when he was running goods for [[The Cartel]].  Each time he wonders if it would be more comfortable stowing away in the cargo hold of the business shuttles.  He whiles away the hour or so before boarding people-watching and fidgeting with his jin, making it disappear and reappear in his hands - in the traditional manner.  When they announce boarding, he sets the piece spinning on its domed side with a snap of his fingers while checking his pockets to make sure he has everything one last time, then stuffs it in his chest pocket; a reassuring weight.
 
 Navigating the sled down to the shuttle's loading hatch is frustrating but eventually he gets it into the cabin, thumbs off the power stud, and has a seat on the crate.  Space is at a premium, those who didn't get one of the few seats settled down where they can on and around the sled.  The heavily recycled air and overworked ox scrubbers tend to make everyone a bit sleepy; many don't bother fighting it and nap through the transit.  Those still awake attempt courtesy and mumble unfelt apologies when they are jostled any time the thrusters make a course adjustment.
 
