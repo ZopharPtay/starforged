@@ -1,7 +1,19 @@
+---
+type: character
+status: deceased
+location: ""
+---
+
 # Lt. Maren Kade
-**Callsign:** Threshold
-**Faction:** [[Stellar Wardens]] (fleet pilot)
-**Status:** Deceased
+
+| | |
+|---|---|
+| **Name** | Maren "Threshold" Kade |
+| **Preferred Name** | |
+| **Role** | Fleet pilot / VIP shuttle jockey |
+| **Pronouns** | She/her |
+| **Faction** | [[Stellar Wardens]] |
+| **Status** | Deceased |
 
 ## Summary
 

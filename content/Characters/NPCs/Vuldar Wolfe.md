@@ -1,9 +1,19 @@
+---
+type: character
+status: dead
+location: ""
+---
+
 # Vuldar Wolfe
 
-**Callsign:** Warden
-**Pronouns:** He/Him
-**Faction:** Formerly [[The Cartel]]
-**Status:** Dead
+|                    |                           |
+| ------------------ | ------------------------- |
+| **Name**           | Vuldar "Warden" Wolfe     |
+| **Preferred Name** | Warden                    |
+| **Role**           | Cartel enforcer           |
+| **Pronouns**       | He/him                    |
+| **Faction**        | [[The Cartel]] (formerly) |
+| **Status**         | Dead                      |
 
 ## Summary
 

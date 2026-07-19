@@ -1,8 +1,19 @@
+---
+type: character
+status: alive
+location: "[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]"
+---
+
 # Ike Sutton
 
-**Role:** Antiquarian / criminal fence (spiritual artifacts)
-**Location:** [[Locations/The Marigny/Paxton Orbital Station/Far Provenance|Far Provenance]], [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]
-**Status:** Alive
+| | |
+|---|---|
+| **Name** | Ike "Grudge" Sutton |
+| **Preferred Name** | |
+| **Role** | Antiquarian / criminal fence (spiritual artifacts) |
+| **Pronouns** | He/him |
+| **Faction** | Unknown (deeper organization; TBD) |
+| **Status** | Alive |
 
 ## Summary
 

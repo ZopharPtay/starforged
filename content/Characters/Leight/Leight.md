@@ -1,12 +1,21 @@
 ---
+type: character
+status: alive
+location: "[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]"
 title: Nassir "Leight" Okoro
 ---
 
 # Nassir "Leight" Okoro
 
-**Pronouns:** He/Him
-**Callsign:** Leight
-**Ship:** [[Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]]
+| | |
+|---|---|
+| **Name** | Nassir "Leight" Okoro |
+| **Preferred Name** | Leight |
+| **Role** | Courier / shadow-worker |
+| **Pronouns** | He/him |
+| **Faction** | None (formerly [[The Cartel]]) |
+| **Status** | Alive |
+| **Ship** | [[Characters/The Hulking Anguish/The Hulking Anguish\|The Hulking Anguish]] |
 
 ## Look
 

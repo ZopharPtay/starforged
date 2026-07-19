@@ -1,11 +1,20 @@
+---
+type: character
+status: alive
+location: "[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]"
+---
+
 # Tomiko "Albatross" Sakir
 
-**Role:** Researcher
-**Pronouns:** TBD
-**Callsign:** Albatross
-**Faction:** TBD (decide before play)
-**Status:** Alive
-**Connection Rank:** TBD
+| | |
+|---|---|
+| **Name** | Tomiko "Albatross" Sakir |
+| **Preferred Name** | |
+| **Role** | Researcher |
+| **Pronouns** | TBD |
+| **Faction** | TBD |
+| **Status** | Alive |
+| **Connection Rank** | TBD |
 
 ## Oracle Results
 

@@ -1,10 +1,20 @@
+---
+type: character
+status: alive
+location: "[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]"
+---
+
 # Flint
 
-**Role:** Independent mechanic / black-market hardware specialist
-**Pronouns:** They/them
-**Faction:** None (formerly used by [[The Cartel]]; burned by them)
-**Status:** Alive
-**Connection Rank:** Dangerous
+| | |
+|---|---|
+| **Name** | Flint |
+| **Preferred Name** | |
+| **Role** | Independent mechanic / black-market hardware specialist |
+| **Pronouns** | They/them |
+| **Faction** | None (formerly The Cartel; burned) |
+| **Status** | Alive |
+| **Connection Rank** | Dangerous |
 
 ## Summary
 

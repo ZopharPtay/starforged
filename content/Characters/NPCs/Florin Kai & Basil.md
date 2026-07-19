@@ -1,13 +1,33 @@
+---
+type: character
+status: alive
+location: "[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]"
+---
+
 # Florin Kai & Basil
 
-**Role:** Information broker (de facto); barfly (de jure)
-**Location:** [[Locations/The Marigny/Paxton Orbital Station/The Gentleman Loser|The Gentleman Loser]], [[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]
-**Status:** Alive
+| | |
+|---|---|
+| **Name** | Florin Kai |
+| **Preferred Name** | |
+| **Nature** | Human |
+| **Role** | Information broker (de facto); barfly (de jure) |
+| **Pronouns** | He/him |
+| **Faction** | None |
+| **Status** | Alive |
+
+| | |
+|---|---|
+| **Name** | Basil |
+| **Preferred Name** | |
+| **Nature** | Con (embodied AI) |
+| **Role** | Information broker (actual) |
+| **Pronouns** | It |
+| **Faction** | None |
+| **Status** | Alive |
 
 ## Florin Kai
 
-**Pronouns:** He/him
-**Species:** Human
 **First Look:** Haggard, accompanied
 
 A worn-out spacer permanently installed in a booth at the Gentleman Loser.  More astute than he lets on, but presents as a talkative drunk.  Will gossip all day as long as the drinks keep flowing.  The public face and physical mobility of the pair.
@@ -16,9 +36,9 @@ No callsign.  No reputation worth mentioning.  That's the point.
 
 ## Basil
 
-**Pronouns:** It (for now).  Pronouns come with confidence and self-autonomy.
-**Species:** Con (mid-intelligence AI)
 **Form:** Clearly-artificial snake (python-esque in proportion), draped around Florin's shoulders.
+
+Pronouns are "it" for now.  Pronouns come with confidence and self-autonomy.
 
 The actual brains of the operation.  Presents as a novelty companion bot.  Decorative.  Dumb hardware with a personality chip.  In reality, a sentient AI running an information-brokering network from Florin's collar.
 

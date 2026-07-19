@@ -1,11 +1,20 @@
+---
+type: character
+status: alive
+location: "[[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]]"
+---
+
 # Marrow
 
-**Real Name:** Rokuro Ishida
-**Role:** Salvage yard operator, [[Locations/The Marigny/Orris/Celadon/Celadon|Celadon]]
-**Pronouns:** He/him
-**Faction:** Extraction operation (employee; quietly hostile)
-**Status:** Alive
-**Connection Rank:** TBD
+| | |
+|---|---|
+| **Name** | Rokuro "Marrow" Ishida |
+| **Preferred Name** | Marrow |
+| **Role** | Salvage yard operator |
+| **Pronouns** | He/him |
+| **Faction** | Extraction operation (employee; quietly hostile) |
+| **Status** | Alive |
+| **Connection Rank** | TBD |
 
 ## Summary
 

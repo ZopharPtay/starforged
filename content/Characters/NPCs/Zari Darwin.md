@@ -1,11 +1,19 @@
+---
+type: character
+status: alive
+location: "[[Locations/The Marigny/Paxton Orbital Station/Paxton Orbital Station|Paxton Orbital Station]]"
+---
+
 # Zari Darwin
 
-**Role:** Shop owner / administrator
-**Pronouns:** He/him
-**Callsign:** Straggler
-**Faction:** None known
-**Status:** Alive
-**Connection Rank:** None (not a connection of Nassir's)
+| | |
+|---|---|
+| **Name** | Zari "Straggler" Darwin |
+| **Preferred Name** | Darwin |
+| **Role** | Shop owner / administrator |
+| **Pronouns** | He/him |
+| **Faction** | None known |
+| **Status** | Alive |
 
 ## Oracle Results
 

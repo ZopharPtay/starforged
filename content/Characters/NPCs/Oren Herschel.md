@@ -1,8 +1,19 @@
+---
+type: character
+status: deceased
+location: ""
+---
+
 # Oren Herschel
 
-**Role:** Captain/Owner of [[Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] (restoration era)
-**Occupation:** Retired combat engineer / loadmaster (Stellar Wardens or mercenary guild, TBD)
-**Status:** Deceased (natural causes; passed before completing the restoration)
+| | |
+|---|---|
+| **Name** | Oren Herschel |
+| **Preferred Name** | |
+| **Role** | Retired combat engineer / ship restorer |
+| **Pronouns** | He/him |
+| **Faction** | Stellar Wardens or mercenary guild (TBD) |
+| **Status** | Deceased (natural causes) |
 
 ## Summary
 

@@ -1,7 +1,19 @@
-# Commander "Lantern"
-**Rank:** Commander, Intelligence Division
-**Faction:** Wraiths of the Elder Imperium ([[Stellar Wardens]] intelligence bureau)
-**Status:** Deceased (executed after failed ransom)
+---
+type: character
+status: deceased
+location: ""
+---
+
+# Commander Lantern
+
+| | |
+|---|---|
+| **Name** | "Lantern" (real name classified) |
+| **Preferred Name** | |
+| **Role** | Intelligence officer |
+| **Pronouns** | |
+| **Faction** | [[Stellar Wardens]] (Wraiths intelligence bureau) |
+| **Status** | Deceased (executed after failed ransom) |
 
 ## Summary
 

@@ -1,7 +1,19 @@
+---
+type: character
+status: alive
+location: ""
+---
+
 # Mira Trevane
 
-**Role:** Crew/talent aboard [[Characters/The Hulking Anguish/The Hulking Anguish|The Hulking Anguish]] (civilian luxury era)
-**Status:** Alive (operating as a grifter/con artist somewhere in the Forge)
+| | |
+|---|---|
+| **Name** | Mira Trevane |
+| **Preferred Name** | |
+| **Role** | Grifter / con artist |
+| **Pronouns** | She/her |
+| **Faction** | None |
+| **Status** | Alive (somewhere in the Forge) |
 
 ## Summary
 

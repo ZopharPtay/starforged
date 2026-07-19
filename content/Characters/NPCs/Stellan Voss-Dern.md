@@ -1,8 +1,19 @@
+---
+type: character
+status: alive
+location: ""
+---
+
 # Stellan Voss-Dern
 
-**Role:** Scion of House Voss-Dern; former suitor of [[Mira Trevane]]
-**Faction:** [[House Voss-Dern]]
-**Status:** Alive (presumably)
+| | |
+|---|---|
+| **Name** | Stellan Voss-Dern |
+| **Preferred Name** | |
+| **Role** | Scion of House Voss-Dern |
+| **Pronouns** | He/him |
+| **Faction** | [[House Voss-Dern]] |
+| **Status** | Alive (presumably) |
 
 ## Summary
 
