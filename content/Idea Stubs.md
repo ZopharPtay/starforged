@@ -27,6 +27,22 @@ A character (not Marrow) with a single bad cybernetic eye.  Company-issued repla
 
 ## Miscellaneous
 
+### First Night Aboard the Anguish (revision note)
+
+J4's recap mentions "Leight slept aboard The Hulking Anguish" as a throwaway line.  This deserves more weight.  It's the first night he sleeps on *his* ship; the thing he ground shifts for months to buy.  Could be a few paragraphs at the end of J3 (after drinks, walking back, climbing aboard, the quiet moment alone in the dark with the hull ticking) or the opening of J4 (waking up, the disorientation, the smell, the realization that this is home now).  Either way, it's a milestone for Leight's emotional arc and shouldn't be a one-liner in a recap.
+
+### Paxton Impound Auction
+
+Annual (or semi-annual) auction of seized, abandoned, and lien-defaulted vessels.  Run by the dockmaster's office with Cartel oversight.  Held in a temporary venue on R3; one of the dead commercial zones gets its shutters rolled up for a week, folding tables and a portable PA system go in, and afterwards it goes back to being empty.  Not a permanent location.
+
+The regulars are scrappers and used-ship dealers who know what's worth bidding on.  Occasionally a desperate individual shows up hoping to buy a future.  That's how Leight got the Anguish; a half-dead freighter with no e-drive is a known money pit and nobody else wanted it as a *ship* rather than scrap.
+
+Potential future hooks:
+- Upgrade parts appearing in a lot Leight can't afford (or can't bid on openly)
+- A sneak-and-grab from the impound yard *before* the auction
+- Recognizing something in a lot that shouldn't be there (Oren's heir's tools?  Cartel evidence?  Something from a derelict?)
+- Running into the same scrappers who passed on the Anguish and hearing what they think of him now
+
 ### Celadon Terminus: Return Visit Details
 
 On a future Orris visit, Leight notices compound improvements that weren't there before:

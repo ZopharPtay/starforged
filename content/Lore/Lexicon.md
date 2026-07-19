@@ -22,7 +22,9 @@ In-universe slang, patois, and terminology established in play.
 
 ## Paxton / Marigny Local
 
-**Dip the shrine**:  Touch or acknowledge a small shrine/memorial in passing, for luck.  A habitual gesture, like crossing yourself.  Leight does this passing through R5.
+**The Prom:**  The commercial shopping stretch on R3.  From "The Grand Promenade," which is what the old signage still says.
+
+**Dip the shrine**:  Touch or acknowledge a small shrine/memorial in passing, for luck.  A habitual gesture, like crossing yourself.  Common throughout the station; shrines are a frequent sight on Paxton.
 
 ## Celadon / Orris
 

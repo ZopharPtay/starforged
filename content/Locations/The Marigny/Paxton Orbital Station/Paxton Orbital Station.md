@@ -115,6 +115,7 @@ Dead storefronts with old signage further from the active docks.  Active commerc
 
 ## Notable Locations
 
+- **The Grand Promenade:** R3's active commercial stretch.  Originally the staff shopping pavilion; even back-of-house got the resort treatment.  The gilded signage still reads "The Grand Promenade" in a typeface two decades out of fashion.  Locals call it "the Promenade" or just "the Prom."  Now a mix of resident-owned shops, food stalls, franchise cockroaches, and the casino/bar district near the docks.  Thins out into dead zones the deeper you go starward.
 - [[Characters/NPCs/Flint|Flint]]'s shop: R5A-14-23.  Four repair bays inside for smaller vehicles and off-site exterior cradles for larger vehicles like the Anguish.  Leased by [[Zari Darwin]]; operated by Flint.
 - [[Locations/The Marigny/Paxton Orbital Station/The Gentleman Loser|The Gentleman Loser]]: Dive bar.  Low ceilings, bad lighting, privacy booths.  The kind of place where nobody looks up when the door opens.
 - [[Locations/The Marigny/Paxton Orbital Station/Original Sin|Original Sin]]: Night club.  Double-height pod, strobing neon, packed dance floor.  The station's release valve for the working poor.
