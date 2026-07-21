@@ -64,7 +64,7 @@ That's a loaded question.  I am trying to add a little each night, but we all kn
 ## The Story So Far
 
 - [[Journals/Journal 1 - First Steps|Journal 1: First Steps]] - Arriving at Paxton Station.  A favor asked.
-- [[Journals/Journal 2 - Placeholder|Journal 2: Memory Lane]] - WIP; exploring the station before the meet.
+- [[Journals/Journal 2 - Okoronaughtics Enterprises Unlimited|Journal 2: Okoronaughtics Enterprises Unlimited]] - An afternoon killing time and trying on ship names.
 - [[Journals/Journal 3 - The Gentleman Loser|Journal 3: The Gentleman Loser]] - A drink Leight can't afford.
 - [[Journals/Journal 4 - New Work|Journal 4: New Work]] - Flint's first errand.  A sled, a package, a shuttle to catch.
 - [[Journals/Journal 5 - Downwell|Journal 5: Downwell]] - The shuttle to Celadon.  First time past the front doors.

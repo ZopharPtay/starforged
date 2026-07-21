@@ -23,7 +23,7 @@ When you make a move to launch from or land on your command vehicle in a perilou
 
 ## Contents
 
-A non-functional hoverbike from home.  Sentimental value.  Tied to the background vow [[Repair a Technology|Repair a Technology]].
+Currently empty.  A non-functional hoverbike with sentimental value is stashed in the R3 dead zone on Paxton (chained up under a tarp).  Not yet moved aboard.  Tied to the background vow [[Repair a Technology|Repair a Technology]].
 
 ## Notes
 

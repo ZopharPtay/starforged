@@ -43,7 +43,7 @@ Leight also discovered a small tip from Rowena (with a note: "Buy yourself a lit
 
 ## Open Threads
 
-- **The data chip:** Wraiths asset network hidden somewhere in the passenger compartment.  Nassir is unaware.
+- **The data chip:** Wraiths asset network hidden inside the false panel compartment in the cargo hold ramp.  Nassir is unaware.
 - **The PCMS:** Camera/sensor array buried in the ship's systems.  Nassir thinks it's just environmental sensors.
 - **Oren's build log:** Hidden somewhere aboard.  Undiscovered.
 - **Oren's heir:** A Herschel grandson, military engineer, quietly looking for the ship.
@@ -55,6 +55,8 @@ Leight also discovered a small tip from Rowena (with a note: "Buy yourself a lit
 - **Florin Kai & Basil:** Information broker pair installed at The Gentleman Loser.  Were in the same bar during the Flint meeting; may have noticed.  Not yet interacted with.
 - **Paragon fade:** Leight's Shade power is sustained by proximity to Orris.  He is unaware it will weaken if he leaves the system.  Ticking clock on his first out-of-system job.
 - **The Anguish's armament:** Unestablished.  Starship asset says "armed" but BoB history never specified weapons.  Resolve in play.
+- **The hoverbike:** Non-functional; stashed in the R3 dead zone on Paxton (chained under a tarp).  Not yet aboard the Anguish.  Backstory deliberately open.
+- **Ship interior layout:** Resolved.  Full blueprints and canonical location page at `Locations/The Hulking Anguish/The Hulking Anguish.md`.
 - **Rowena:** Repair bay supervisor at Celadon Terminus.  Tipped Leight after humiliating him ("Wet Kitten" account).  Potential recurring contact on future Orris runs.
 - **Marrow:** Salvage yard operator at Celadon Terminus.  Former Vanguard.  First transaction complete.  Potential recurring contact; arms supplier thread if trust develops.  Building the Mark Three (expedition barge redesign) and a ground motorcycle.
 - **Vanguard Recon Group:** Mercenary expedition force (2 squads of 12).  Go past the wire.  Insular, professional, hard on equipment.  Marrow is former Vanguard.
@@ -65,7 +67,8 @@ Leight also discovered a small tip from Rowena (with a note: "Buy yourself a lit
 ## Next Session
 
 ### Immediate
-- Drinks with Flint.  Where?  The Gentleman Loser again, or somewhere else?
+- Write Journal 3.5 (first night aboard the Anguish; exploration and emotional beat)
+- Drinks with Flint (round two).  Where?  The Gentleman Loser again, or somewhere else?
 - Does Flint reveal anything about the Darwin visit or his mood?
 - Downtime aboard the Anguish after drinks?  Potential Sojourn move.
 
@@ -76,6 +79,7 @@ Leight also discovered a small tip from Rowena (with a note: "Buy yourself a lit
 - Paragon fade ticking clock
 - Albatross job (shelved NPC, not the tote)
 - The Anguish's armament
+- Hoverbike retrieval and backstory
 - Leight's backstory (grew up on Paxton; not yet stated in prose)
 
 ## Worldbuilding Established This Session

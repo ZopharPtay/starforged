@@ -27,9 +27,29 @@ A character (not Marrow) with a single bad cybernetic eye.  Company-issued repla
 
 ## Miscellaneous
 
-### First Night Aboard the Anguish (revision note)
+### First Night Aboard the Anguish (Journal 3.5)
 
-J4's recap mentions "Leight slept aboard The Hulking Anguish" as a throwaway line.  This deserves more weight.  It's the first night he sleeps on *his* ship; the thing he ground shifts for months to buy.  Could be a few paragraphs at the end of J3 (after drinks, walking back, climbing aboard, the quiet moment alone in the dark with the hull ticking) or the opening of J4 (waking up, the disorientation, the smell, the realization that this is home now).  Either way, it's a milestone for Leight's emotional arc and shouldn't be a one-liner in a recap.
+Leight's first real time alone on the ship with nowhere to be.  After drinks at the Loser (end of J3), before waking up to Flint's message (opening of J4).  He walks through, takes stock, picks a cabin.  Emotional beat (this is mine, it's real, it's a wreck) layered over physical discovery.
+
+Key moments:
+- Scale and emptiness (four cabins for one person)
+- The vehicle bay (empty, promising; he knows where the bike goes)
+- Oren-era remnants (tools, half-finished panels, the sense of interrupted work)
+- One Trevane-era ghost (an incongruous luxury detail that survived)
+- Settling in to sleep for the first time
+
+File: `Journal 3.5 - [title TBD].md`
+
+### Hoverbike Backstory (open)
+
+The bike is stashed in the R3 dead zone on Paxton; chained up under a tarp in one of the shuttered commercial areas.  Not yet aboard the Anguish.  Backstory deliberately open.  Options to explore:
+- Station moped/scooter for getting around the industrial rings
+- Cartel-era work tool (courier speed in tight corridors)
+- Underground racing circuit in the R3 grey zone
+- Earned/built during honest dock shifts at Celadon (first non-tainted possession)
+- Some combination
+
+The "from home" and "sentimental" aspects of the vow are the anchors.  The specifics emerge when they're ready to.
 
 ### Paxton Impound Auction
 
