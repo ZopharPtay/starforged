@@ -9,7 +9,7 @@ tags:
 
 # The Hulking Anguish - Physical Layout
 
-![[Hulking Anguish Blueprint 1.png]]
+![[Hulking Anguish Blueprint.png]]
 ## Overview
 
 The SH-56V is a two-and-a-half deck vessel with a tapered wedge profile forward widening into a rectangular cargo body aft.  The bridge sits in a raised split-level nose.  Spider-leg segmented landing gear deploys from the belly, giving the ship significant ground clearance when landed.
@@ -36,7 +36,7 @@ A standard SH-56 fitting found in every stateroom and the briefing room.  One pi
 
 ## Upper Deck (Crew Country)
 
-![[First/Locations/The Hulking Anguish/Upper Deck Closeup.png]]
+![[Upper Deck Closeup.png]]
 
 Forward to aft:
 
@@ -82,7 +82,7 @@ Access down to mid deck via interior ramp.  Pressure hatch at the top of the ram
 
 ## Mid Deck (Cargo + Engineering)
 
-![[First/Locations/The Hulking Anguish/Mid Deck Closeup.png]]
+![[Mid Deck Closeup.png]]
 
 ### Luxury Suites (Port and Starboard)
 Forward section, flanking the interior ramp.  Mirrored layouts.  Converted from cargo space during the Trevane era.  Interior walls (not bulkhead); interior doors (not pressure hatches).
@@ -122,7 +122,7 @@ Aft section.  Two maneuver thrusters (flanking, functional) and one E-drive (cen
 
 ## Lower Deck (Vehicle Bay)
 
-![[First/Locations/The Hulking Anguish/Lower Deck Closeup.png]]
+![[Lower Deck Closeup.png]]
 
 Belly-mounted bay beneath the forward portion of the ship (under the suites and forward ~2/3 of the cargo hold).  Does not extend beneath the aft cargo ramp section.
 

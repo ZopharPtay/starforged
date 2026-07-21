@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **[[The Hulking Anguish]]**
-	- [[Vehicle Bay]]
+
 - **[[The Marigny]]**
 	- **[[Orris]]**
 		- **[[Celadon]]**
